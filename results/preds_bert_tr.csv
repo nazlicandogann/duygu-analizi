@@ -1,4 +1,4 @@
-﻿id,text,true_label,predicted_label
+id,text,true,pred
 tr_0,Alman kıyı savunması da ateş açtı .,Nötr,Nötr
 tr_1,Faaliyetler gençler düzeyinde oldu .,Nötr,Nötr
 tr_2,O zamanki yönetimlerin özel sektöre getirdiği çok büyük engeller neden olmuştur .,Nötr,Nötr
