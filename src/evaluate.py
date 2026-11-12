@@ -7,14 +7,7 @@ from sklearn.metrics import accuracy_score, f1_score, confusion_matrix, Confusio
 
 ETIKETLER = ['Pozitif', 'Negatif', 'Nötr']
 
-def evaluate(dosya, gorsel_klasoru='results/figures'):
-    df = pd.read_csv(dosya, encoding='utf-8')
-    y_true = df['true']
-    y_pred = df['pred']
 
-    accuracy = accuracy_score(y_true, y_pred)
-    macro_f1 = f1_score(y_true, y_pred, labels=ETIKETLER, average='macro', zero_division=0)
-    
 def evaluate(dosya, gorsel_klasoru='results/figures'):
     df = pd.read_csv(dosya, encoding='utf-8')
     y_true = df['true']
