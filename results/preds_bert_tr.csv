@@ -1,4 +1,4 @@
-id,text,true,pred
+﻿id,text,true_label,predicted_label
 tr_0,Alman kıyı savunması da ateş açtı .,Nötr,Nötr
 tr_1,Faaliyetler gençler düzeyinde oldu .,Nötr,Nötr
 tr_2,O zamanki yönetimlerin özel sektöre getirdiği çok büyük engeller neden olmuştur .,Nötr,Nötr
@@ -116,7 +116,7 @@ tr_110,"ürün bugün elime ulaştı, kalemler istediğim gibi çıktı, insanı
 tr_111, hayatımda izlediğim en vasat filmlerden biri..boş vakti çok olan kişilere tavsiye edilir ancak...tony scoot ın kötü filmlerinden biri...vaktime acıdım vallayı ,Negatif,Negatif
 tr_112,ayrıca bu kartın diğer markalarda olmayan 3 yıllık garantisi de önemli bir artı.,Pozitif,Pozitif
 tr_113,dişarida bu fi̇yata bulamazsiniz. deri̇si̇ güzel bi̇raz sert ama zamanla yumuşar başka ürünlerde aliyorsaniz kargonun i̇çi̇ne ekleti̇rseni̇z karlisiniz sayilir. yoksa pek avantaji yok,Pozitif,Negatif
-tr_114,Watch aşk-ı memnu moron,Negatif,Pozitif
+tr_114,Watch aşk-ı memnu moron,Negatif,Nötr
 tr_115,kısa sürede büyüyor kedim koklayıp duruyor. mamasına karıştırdım biraz sanırım sevdi :) umarım iyi gelir midesine sürekli kusuyor. çok çabuk büyümesi çok iyi.,Pozitif,Pozitif
 tr_116,virman zırtapoz sökük dikkafalı,Negatif,Negatif
 tr_117,sadece yorgan için alacaklar fena değil fakat yastıklar çok ince ve kalitesiz eşim memnun kalmadı.,Negatif,Negatif
@@ -159,7 +159,7 @@ tr_153,çok memnun kaldım  gerçekten aldığıma değdi çok teşekkürler,Poz
 tr_154,aman dikkatarkadaşlar ailemle   tatilimi bayarda yaptım o zamanlar en azından vasat tı yani idare ederdi alttaki yorumu ben yapmıştım zaten    eylül bu sene yine otel bayara gittim insan tatilim bitsin diye gün sayarmı arkadaşlar dort yıldız falan kalmamış yani artık yıldız yok o otelde biryerlerinde de yazmıyor zaten artık  otel pazara dönmüş zaten ben  tl den girdim bi baktımki kimileri     inannki konyalı bir aile vardı  tl ye girmişler en önemlisi ise aç kaldık yemekler nasıl tarif edeyim allahın nimeti bu kadarmı kötü servis edilir  gün kaldık öğle aksam balık öğle akşam tavuk haşlama ama ne haşlama ha birde köfte ama et tadı olmayan bir köfte unutmadan çorbalar hergün birbirine benziyor içilmiyor salamdan sosisten çorba yapıldıgınıda orda gördüm sabahtan kalanlar öğleye öğleden kalanları akşama mutlaka değerlendiriyorlar bırakın yemek yemeyi yemekhaneye girerken o kadar ağır bir koku insanın midesi kalkıyor yemeden kaçası geliyor yemekhane diyorum çünkü restorant demeye bin şahit ister duş suları tuzlu zannedersem deniz suyu havlularımız  günden sonra odamıza geldi nedeni ise rus yoğunluğu varmış  aman tatiliniz azaba dönüşmesin gidecekseniz bidaha düşünün  bombaya bakın internet  jetona  dakika tv ise vizontele  kanal listenize almadığınız kanallar kilma kumanda yok işin garip tarafı ayar düğmeleride bozuk geceleri üstüne perde çekiyorduk üşümeyek diye,Negatif,Negatif
 tr_155,Baraj setinin yüksekliğine göre vadi su ile dolar .,Nötr,Nötr
 tr_156,ihtiyaçlarımı karşılamadı...,Negatif,Negatif
-tr_157,Adam bin dedim dese bile sen yok olur mu dememişsinizdir diyeceksin Avukatlık teklifi mi geldi yoksa ,Pozitif,Negatif
+tr_157,Adam bin dedim dese bile sen yok olur mu dememişsinizdir diyeceksin Avukatlık teklifi mi geldi yoksa ,Pozitif,Pozitif
 tr_158,Elementin kristal yapısının ise yüzey merkezli kübik şeklinde olduğu öngörülmektedir .,Nötr,Nötr
 tr_159,"aventin urunlerini begeniyorum ancak biberon emziginin iki deliklisini aldim  yavas geldi 4 deliklisini aldim bu sefer de hizli geldi. benim bebegimle alakali diye dusunuyorum ancak yeni biberon ve basligi alacaklar dikkat etsinler , bebegin alimiyla alakali durumu goz onunde bulundurun derim ben ..",Pozitif,Negatif
 tr_160,Bilimsel araştırma yöntemlerini belirleyerek günümüz bilim araştırmalarının temelini atmıştır .,Nötr,Nötr
@@ -182,7 +182,7 @@ tr_176,"mağazalarda orijinal ürün fiyatı daha pahalı, almadan önce araşt�
 tr_177,Yapılış tarihi bilinmemektedir .,Nötr,Nötr
 tr_178,Fiyatı uygun evet Ürünün fıyatı uygun şık duruşu var fakat öyle sesli çalışıyor ki ev yıkılıyor sanki,Negatif,Negatif
 tr_179,Lig şampiyonları karşılaştı .,Nötr,Nötr
-tr_180,İçimizdeki satılık kalemşörler ,Negatif,Negatif
+tr_180,İçimizdeki satılık kalemşörler ,Negatif,Pozitif
 tr_181,"mükemmel bir düş beyazlığı sağlayan bir ürün.. daha önce de kullandım, şimdi yenisini aldım ve çok memnunum, alacak olanlar için fiyatı uygunsa -ki bence gayet uygun- mutlaka tercih etmeleri gereken bir fırça.. şarjı bir haftadan fazla gidiyor..",Pozitif,Pozitif
 tr_182,Avukatlık mesleğini icra edebilmek için baro kaydı zorunludur .,Nötr,Nötr
 tr_183,not : album temmuz 2008 de li̇stelere 1 numaradan gi̇rmi̇şti̇r....,Pozitif,Pozitif
@@ -254,7 +254,7 @@ tr_248,rezalattitatilci sayısı çok olduğu için bu sene personel eksikliği 
 tr_249,memnunuz. sıkıntı yok,Pozitif,Pozitif
 tr_250,Bu gizlilik aynı zamanda da onların hayat felsefesi ve kültürü oldu .,Nötr,Nötr
 tr_251,Sadece bir tane çocuğu Hermione vardır .,Nötr,Nötr
-tr_252,seni sevmeyen ölsün aşşşkım ,Negatif,Pozitif
+tr_252,seni sevmeyen ölsün aşşşkım ,Negatif,Negatif
 tr_253,Bir kısmı özel silah ve ekipmanlar gerektirir .,Nötr,Nötr
 tr_254,ürün orjinal devir ayarlı olması çok iyi fiyat uygun aldık.kullanıyoruz.tek bir zorluğu siperlik vidalı anahtarı ile sıkılyor bas çevir değil,Pozitif,Pozitif
 tr_255,"tasarımı gayet şık. i̇çindeki fonksiyonlar güzel. özellikle mühendislik sembolleri özelliği benim hoşuma gitti. i̇şlem sonucunda 10 üzeri yerine mega, kilo gibi sonuçlar alabiliyorsunuz. gayet kullanışlı ve şık bir ürün.",Pozitif,Pozitif
@@ -330,7 +330,7 @@ tr_323, johnny depp=mükemmel oyunculuk ,Pozitif,Pozitif
 tr_324,Köy sonradan Yapraklı mahallesinden ayrılarak bir köy olmuştur .,Nötr,Nötr
 tr_325,Bundan sonra nehirde düzenli bir ulaşım sağlanır .,Nötr,Nötr
 tr_326,küçük bahçe tırmığı. sırt kaşımaya gelince çok kullanışlı değil kendi etrafında dönüyor. birde metal olduğu için acıtabiliyor.almanızı pek tavsiye etmem.,Negatif,Negatif
-tr_327, Pazarlara ne oldu da dükkana atladın hemen..küçükten başla..sermayen birikir..ha,Pozitif,Negatif
+tr_327, Pazarlara ne oldu da dükkana atladın hemen..küçükten başla..sermayen birikir..ha,Pozitif,Pozitif
 tr_328,"daha önce kullandiğimizdan , fi̇yati da neredeyse duty free fi̇yatina yakin olduğundan almakta hi̇ç tereddüt etmedi̇m . ",Pozitif,Pozitif
 tr_329,hiçbir sıkıntı yaşamadım ama bir gamer gece de oyun oynar gündüz de dolayısıyla aydınlatma olmaması bi eksi.,Pozitif,Pozitif
 tr_330,lastiği böyle bi sürü şişirilmiş abartılmış yorumlara göre aldım.fakat verdiğim parayı hak etmeyen bir lastik olduğunu gördüm.extreme koşullarda kullandım sıradan bir lastikten ciddi bir farkı yok.,Negatif,Negatif
@@ -350,7 +350,7 @@ tr_343,bu kadar ufak bir üründen elde edeceğiniz güç inanın sizi şaşırt
 tr_344,ürünü beğenmedim anlatildigi gibi değil di,Negatif,Negatif
 tr_345,Trenle gelenler için ulaşım oldukça kolaydır .,Nötr,Nötr
 tr_346,gayet güzel iş görüyor fiyatıda uygun şimdilik bir sorun yok ileride paslanmazsa harika,Pozitif,Pozitif
-tr_347,ürün muhteşem yalnız telefonun şarjı çabuk bitiyor ne yaparsanız yapın 3-4 defa şarj ediliyor. ve telefonu ne kadar muhteşem olsada kullanamıyorsunuz.,Negatif,Pozitif
+tr_347,ürün muhteşem yalnız telefonun şarjı çabuk bitiyor ne yaparsanız yapın 3-4 defa şarj ediliyor. ve telefonu ne kadar muhteşem olsada kullanamıyorsunuz.,Negatif,Negatif
 tr_348,Oyunculukla lise yıllarında tanıştı .,Nötr,Nötr
 tr_349," Ben filmi beğenmedim.Sözüm ona filmi beğenmeyenler anlamamıştır diyen arkadaşlara karşılık olarak da filmi kesinlikle anladım.Zaten o kadar matah bişey yok.Çağan Irmak için gittim filme,demek ki ona da güvenmemek lazım. ",Negatif,Negatif
 tr_350,Üçüncü bir rapor daha yayınladı .,Nötr,Nötr
@@ -405,7 +405,7 @@ tr_395,İlerleyen dönemlerde ise;,Nötr,Nötr
 tr_396,Olumlu yönleri: Parasına göre idare eder. Çok kaliteli değil malzeme çok ince,Negatif,Negatif
 tr_397, Filmin ismine aldanmayın.Alakası hiç yok.Bence dikkat çekmek için konulmuş sadece. Ayrıca içeriğinide beğenmedim. Yazık bence ,Negatif,Negatif
 tr_398, hiç bi güç beni içinde jlo ve affleck olan bir bakın burası önemli romantik komediye götüremez...... ,Negatif,Negatif
-tr_399," şahane bi film....yani övgülerimi dahada sürdürmek isterdim ama övgülerimide filmin bitiş sahnesi gibi bitirmek istiyorum..böyle aniden..yaa bi film böyle bitermi yaa..herşey mükemmel giderken,film insanı etkisi altına almışken,eee devamında ne olacak derken..küt..film bitti..söyleyecek kelime dahi bulamıyorum ",Pozitif,Pozitif
+tr_399," şahane bi film....yani övgülerimi dahada sürdürmek isterdim ama övgülerimide filmin bitiş sahnesi gibi bitirmek istiyorum..böyle aniden..yaa bi film böyle bitermi yaa..herşey mükemmel giderken,film insanı etkisi altına almışken,eee devamında ne olacak derken..küt..film bitti..söyleyecek kelime dahi bulamıyorum ",Pozitif,Negatif
 tr_400, yine hostel 2 tarzı garez 2. bu filmlerin ikinci bölümleri çekilmese gerçekten daha güzel olacakmış. serinin birinci filminden daha farklı bir şey vermiyor. ,Negatif,Negatif
 tr_401,"ürün ilanda belirtildiği gibi a enerji sınıfı değil a+ dır.daha önceden philips in 20 wattlık tasarruflu ürünü takılıydı avizede,bunu taktım ortalık bembeyaz oldu.şiddetle tavsiye ediyorum.paranızın karşılığını fazlasıyla alacağınızdan eminim.",Pozitif,Pozitif
 tr_402,Bu patlama sonucunda tank zırhı üzerinde şok dalgaları yaratır .,Nötr,Nötr
@@ -438,7 +438,7 @@ tr_428, Beklediğimin çok altında bir film . Aşırı küfür olması filmi iz
 tr_429," Valla hanig yönetmene hangi filme saygı duruşuymuş yok efenim nostaljikmiş fln gibi şeyler bilmem, umrumda olmaz; ben filme bakarım... Kız çocuk oyuncun yeteneği haricinde vasat bile denemeyecek kadar kötü bir zaman kaybı. Hele bilim kurgu fln izlicem, heyecan merak fln duyucam diye düşünüyorsanız hiç yanına bile yaklaşmayın... Kötü. ",Negatif,Negatif
 tr_430,anaokulu için birkaç tane aldık. son derce şık bir ürün. kullanışlı. mantar kısmı üzerine gerilen bez tırtırlı yüzeyli ve çok güzel duruyor. i̇deal ürün. hele de bu fiyata,Pozitif,Pozitif
 tr_431,diğer taraftan köpeklere kovmak için kullanırken etraftaki tüm kedilerin cihazdan etkilenip kaçtığına da şahit oldum:),Negatif,Negatif
-tr_432,"5.5"" olan model biraz ele ve cebe büyük geliyor bu konuda uyarmakta fayda var.",Pozitif,Negatif
+tr_432,"5.5"" olan model biraz ele ve cebe büyük geliyor bu konuda uyarmakta fayda var.",Pozitif,Pozitif
 tr_433,Hesaplanan ağırlıklı puanlar nihai sıralamayı belirleyici niteliktedir .,Nötr,Nötr
 tr_434,Tarihçiler ve askeri birimler genellikle kısa adı kullanmaktadır .,Nötr,Nötr
 tr_435,Bütün canlı hücrelerde bulunur .,Nötr,Nötr
@@ -501,7 +501,7 @@ tr_491,Sonunda odaya ulaşırlar .,Nötr,Nötr
 tr_492,"açıkcası nasıl birşey oldugunu bilmeden aldım. sırt agrılarım için dr. tavsiyesiyle aldım. gelince anladım ki 5 yayı birden kullanmak başta çok zor. i̇ki yayla başladım, şimdi 3 yaya çıktım. güzel bir ürün. ayrıca hepsiburada.com bir günde bana ulaştırdı.",Pozitif,Pozitif
 tr_493, Filmin içine iyice girdiğiniz zaman gerçekten müthiş vakit geçirirsiniz.Tüm Burton her sinema filminde müthiş dünyalar yaratıyor ve müthiş hikayeler ortaya çıkarıyor. ,Pozitif,Pozitif
 tr_494,İnsan için bu yeterli değildir .,Nötr,Nötr
-tr_495,boruların içi boş oldugu için çok fazla güven vermiyor sağlamlık açısından ama güzel ürün fena değil .,Negatif,Negatif
+tr_495,boruların içi boş oldugu için çok fazla güven vermiyor sağlamlık açısından ama güzel ürün fena değil .,Negatif,Pozitif
 tr_496,rezaletotelde temmuz   döneminde yer ayırttım ve gittim  gün dayanabildim kesinlikle anlatıldığı gibi bir yer değil  otelin bitişiğinde alkol satan dükkan çocuklarınız oradan alış veriş yapmak zorunda  bahsedilen plaj halk plajı pislik içinde ve deniz devamlı dalgalı ve içinde izci kampı var ailenizi denize sokamazsınız her öğün tek çeşit akşamları öğlen ve dün akşamdan kalma yemekleri karıştırıp yeni bir yemek gibi önünüze getiriyorlar bayanlar havuzundan yılan ve fare çıktı otel sahibinin adı ergün tüm tatil sitelerine farklı isimlerle çok güzel otel diye yorum yazıyor gerçek yorumlar aşağıdaki adreste,Negatif,Negatif
 tr_497,oğlumun kullandığı ve sevdiği bir parfümdü. fiyatının düştüğünü görünce hiç düşünmeden aldım ve oğluma sürpriz yaptım. üstelik araya haftasonu girmesine rağmen 2 günde elimizdeydi ürün. teşekkürler hepsiburada...,Pozitif,Pozitif
 tr_498,ürünün kalitesi vasat koruyucusu yok öylesine takmak için olabilir ama spor yaparkan kesinlikle kullanılmaz,Negatif,Negatif
@@ -645,7 +645,7 @@ tr_634,o kadar çok makina kullandık ki bu harika müthiş hatta ütopik bir ş
 tr_635,oda pek etkili olmuyor....,Negatif,Negatif
 tr_636,apartmanımızın zemin katı ve deposu için aldım. küf ve rutubet kokusu gitti. ürün beklediğimden daha performanslı ve ekonomik çıktı. havalandırma cihazı alamıyorsanız veya havalandırma konusunda sıkıntınız varsa işinize yarayacaktır.,Pozitif,Pozitif
 tr_637,benim implantım olduğu için faydalı olacağını düşünerek aldım.. aralardaki küçük parçaları çıkarıyormuş.. aynı işlevi dişinizi  fırçaladıktan sonra ağzınızı çalkalayaak da yapabilirsiniz. lüzumsuz bir ürün..bin pişman oldum...,Negatif,Negatif
-tr_638,urune dginecek olursak oldukca sessiz bir urun kutuphanede sesi hic duyulmuyor. isinma durumu da ilk kullandigim gune nazaran biraz artti sanirim hvalardan dolayi cunku genelde disarida ve gunduz saatlerinde isiniyor evde iken tek seferde 350 gb film arşivini yukledim tek seferde hic isindigini gormedim. ,Pozitif,Negatif
+tr_638,urune dginecek olursak oldukca sessiz bir urun kutuphanede sesi hic duyulmuyor. isinma durumu da ilk kullandigim gune nazaran biraz artti sanirim hvalardan dolayi cunku genelde disarida ve gunduz saatlerinde isiniyor evde iken tek seferde 350 gb film arşivini yukledim tek seferde hic isindigini gormedim. ,Pozitif,Pozitif
 tr_639,Yeni takımında profesyonel oldu .,Nötr,Nötr
 tr_640,"Kayıt ve personel bilgileri ""Talk That Talk"" albüm kitapçığından alınmıştır .",Nötr,Nötr
 tr_641,Kasabada kalan Almanlar atıldı ve yerine Polonyalılar getirildi .,Nötr,Nötr
@@ -658,7 +658,7 @@ oynuyordu. vidayı sıkınca sorun çözüldü. Resimde koyuyorum ancak böyle
 bir ürünü tefal kendi kalite kontrolünden nasıl geçirıp gönderiyor garip.",Negatif,Negatif
 tr_645,Genel sarmal yapıyı belirlemek için çeşitli düşük çözünürlüklü yöntemler vardır .,Nötr,Nötr
 tr_646,ürün diğer fiyatlara göre gayet uygun fiyatta ve diğer piyasadaki pahalı ürünlerle arasında hiç bir fark yok. tasarımı gayet şık ve hoş turbo moduda oldukça makineyi güçlendiriyor. kargo da baya hızlı 2 gün içimde cihaz elime geçti teşekkürler. ,Pozitif,Pozitif
-tr_647," Ferdi Tayfur’un çalıntı iddiaları bir kenara bırakılırsa, Ata Demirer’in senaryosunu yazdığı Berlin Kaplanı’nda, Berlin’de birlikte meteliğe kuruş attığı antrenörü Cemal’den (Tarık Ünlüoğlu) başka kimsesi olmayan Ayhan Kaplan (Ata Demirer) boksör ve koruma olarak ekmeğini çıkarmaya çalışırken başına gelen komik olaylar işleniyor. Zülfü Livaneli Sevdalım Hayat’ta Almanya’nın kokularına alışamadığını, karanlık bakışlı ""Türk-Alman köylüleri"" dediği insanlarını sevmediğini yazar. Ayhan Kaplan ise aydınlık bakışlı bir Alamancı; film ise Kemal Sunal filmleri tadında bir kaybedenin kazanma hikâyesi bana kalırsa. Saf ve temiz kahramanımız gurbette şikeler, tehditler, borçlarla boğuşadursun Antalya’daki salaş bir otelin sahibi hafızasını yitirir ve kızıyla damadı milyon dolarlık oteli fırsatçı emlakçıya satmak isterken arazinin yarı hissesinin çocukluğundan beri görmedikleri Ayhan Kaplan’a ait olduğunu görürler. Ayhan’ın Antalya’ya gelmesiyle hikâye eksen değiştirir. Bir kaybedenin aşkı, aileyi ararken kendini ve hakça bir adaleti bulmasıyla bol şekerli modern bir Yeşilçam komedisine dönüşür. Film seyircisini kırmaz, ona istediği sonu verir: kaybedenler de doğruluktan ayrılmadıkları sürece bir gün kazanacaktır. Kötülük düşünenler varsa er geç doğru yola girecektir. Birçoğumuzun Avrupa Yakası’yla tanıdığı, Demizkubuz’un sabırsızlıkla beklediğim yeni filminde oynayacağı için Yalan Dünya’da bu durumu sıkça espri konusu yapılan Nihal Yalçın, filmde Elvan karakterini canlandırıyor. Enişte Necati Bilgiç’i filmde görmek ise bende Teyzem ve Arabesk’ten gelen bir geçmiş esintisi yarattı. Filmin yönetmeni Hakan Algül ise hatırlayacağınız gibi, Döngel Kârhanesi (2005), Eyyvah Eyvah (2010) ve Eyyvah Eyvah 2 (2011) gibi keyifli işlere imza atmıştı. Ata Demirer, yeni filmiyle yine bizleri güldürmeyi başarıyor. Yarattığı boksör karakteri inandırıcı ve sevimli. Eyyvah Eyvah serilerindeki müziği, sadeliği, kaliteyi aramayacaksanız ve mazlum bir Alamancı’nın tatlı şivesine, müthiş komik panik atak sahnelerine, Antalya doğasında aşkı ve aileyi arayışının yumuşak öyküsüne dalacaksanız Berlin Kaplanı iyi bir seçim. Film, Yeşilçam komedi geleneğine göz kırpıyor ve izleyicileri topluyor. ",Negatif,Negatif
+tr_647," Ferdi Tayfur’un çalıntı iddiaları bir kenara bırakılırsa, Ata Demirer’in senaryosunu yazdığı Berlin Kaplanı’nda, Berlin’de birlikte meteliğe kuruş attığı antrenörü Cemal’den (Tarık Ünlüoğlu) başka kimsesi olmayan Ayhan Kaplan (Ata Demirer) boksör ve koruma olarak ekmeğini çıkarmaya çalışırken başına gelen komik olaylar işleniyor. Zülfü Livaneli Sevdalım Hayat’ta Almanya’nın kokularına alışamadığını, karanlık bakışlı ""Türk-Alman köylüleri"" dediği insanlarını sevmediğini yazar. Ayhan Kaplan ise aydınlık bakışlı bir Alamancı; film ise Kemal Sunal filmleri tadında bir kaybedenin kazanma hikâyesi bana kalırsa. Saf ve temiz kahramanımız gurbette şikeler, tehditler, borçlarla boğuşadursun Antalya’daki salaş bir otelin sahibi hafızasını yitirir ve kızıyla damadı milyon dolarlık oteli fırsatçı emlakçıya satmak isterken arazinin yarı hissesinin çocukluğundan beri görmedikleri Ayhan Kaplan’a ait olduğunu görürler. Ayhan’ın Antalya’ya gelmesiyle hikâye eksen değiştirir. Bir kaybedenin aşkı, aileyi ararken kendini ve hakça bir adaleti bulmasıyla bol şekerli modern bir Yeşilçam komedisine dönüşür. Film seyircisini kırmaz, ona istediği sonu verir: kaybedenler de doğruluktan ayrılmadıkları sürece bir gün kazanacaktır. Kötülük düşünenler varsa er geç doğru yola girecektir. Birçoğumuzun Avrupa Yakası’yla tanıdığı, Demizkubuz’un sabırsızlıkla beklediğim yeni filminde oynayacağı için Yalan Dünya’da bu durumu sıkça espri konusu yapılan Nihal Yalçın, filmde Elvan karakterini canlandırıyor. Enişte Necati Bilgiç’i filmde görmek ise bende Teyzem ve Arabesk’ten gelen bir geçmiş esintisi yarattı. Filmin yönetmeni Hakan Algül ise hatırlayacağınız gibi, Döngel Kârhanesi (2005), Eyyvah Eyvah (2010) ve Eyyvah Eyvah 2 (2011) gibi keyifli işlere imza atmıştı. Ata Demirer, yeni filmiyle yine bizleri güldürmeyi başarıyor. Yarattığı boksör karakteri inandırıcı ve sevimli. Eyyvah Eyvah serilerindeki müziği, sadeliği, kaliteyi aramayacaksanız ve mazlum bir Alamancı’nın tatlı şivesine, müthiş komik panik atak sahnelerine, Antalya doğasında aşkı ve aileyi arayışının yumuşak öyküsüne dalacaksanız Berlin Kaplanı iyi bir seçim. Film, Yeşilçam komedi geleneğine göz kırpıyor ve izleyicileri topluyor. ",Negatif,Pozitif
 tr_648,"large beden aldığım halde ayağıma geçiremedim.bir çift xl geliyor,umarım o olur..malzemesi iyi ama çok küçük geldi.diğer aldığım baldırlık, dirseklik ve dizlikler çok iyi çıktı..",Negatif,Negatif
 tr_649,Bir süre sonra o ticaretle bağımsız meşgul olmuştur .,Nötr,Nötr
 tr_650,Bu konaklar günümüzde müze olarak ziyaretçilere açılmıştır .,Nötr,Nötr
@@ -747,10 +747,10 @@ tr_732,enide boyuda minicik.ayrıca çekmece rayları sorunlu monte ederken çok
 tr_733,hızlı ve profesyonel. teşekkürler.,Pozitif,Pozitif
 tr_734,Sanayileşme müziğinin öncüsü olarak anıldı .,Nötr,Nötr
 tr_735,Güzel. En çok yemekler ve hizmetten memnun kaldım.  ,Pozitif,Pozitif
-tr_736,yorumları okumadan aldım.fiyatı uygun koku durumuna bakamadım ama aşırı sert şekil bile almıyor.,Negatif,Pozitif
+tr_736,yorumları okumadan aldım.fiyatı uygun koku durumuna bakamadım ama aşırı sert şekil bile almıyor.,Negatif,Negatif
 tr_737, tam bi şizofren işi olmus bi bastan bi gıctan(kıtaptan)abi kımse cıkıpta abi nedir demiyo onu anlamıyom yani sımdı kıtabı okumamıs ınsan bella nın ben bundan sonra işvicre olcam cumlesın ne anlama cıkarır anlamak mumkun degıl. bella o cumleyı soleyınce ben saolnun arkasında yarıldım mıllet donup bana bakmaya basladı bu delı nıye guluyo dıye..Abi sımdı kıtabı okumamıs 28-29 yaslarında adamlar gelıyo kız arkadaslarıyla allah askı o fılmden ne anlıcak peh!!emıly leah ve rosalie oynuyan kızları nerden bulmuslar anlamak mumukun degıl(leah bı baya guzel olması lasım emıly nınde bıras tasra kızı olması) rosalıe zaten guzel degıl fılmde en guzel kızı bella yapmıslar(alıce cullen harıc)jacob edwarddan daha uzun olması lasım bunu nasıl atlamıslar... Edwardla bella opusurken bella daha fazla ıstemesı edwardın onu tehlıkeye atmamak ıcın ellerıden tutup gerı itmesi gerekır fılde ıse edward yıyecekmıs gıbı opuyo bella kacıyo opmemek ıcın zor gelıyo opusmek ona(kıtaptakı en onemlı olay bu yanı bundan otesı yok kıtapta cok stedıgın bıseye tam anlamıyla sahıp olamıyorsun kıtabın bı nevi konusu)edward cok yapmacık bellayı ne zaman kamera cekse dudakları 3-4 cm acık duruyo ne dır bu abi yaa!! Ridleyı oynayan adam son dovus sahnesı kadar baya iyi oynadı sonra oda bozdu.Jasper ve Alice oynaoyuncular baya iyidi hatta en iyi vampir olan Jasperdı dıyebılırım.Keske daha cok iş dusseydı Jaspera onun hatrına izlenır bıde Alice için bella kolunu keserken kazanı sıyırmadan nasıl kolunu kesı anlamıs degılım kanı içinden akıyo ama kazan bılene kadar cekılmıs .Son fılmı ıkıye bolcez dıye tutulma kıtabının amacını saptırmıslar Bide 2 saat yapcaz dıye Jasper rosalie ve bılly anılarını canlandırmıslar .Kurtlarkızınca tıtremesı lasım (ınsan formundayken) Bella yı baska bırı canlandırsın allah askına duygu yoksunu gıbı gozukuyo fılmde valla salonun hepsı fılm bıtsede gıttek demeye basladı fılm yarısından sonra..bi daha hary potter fılmlerıne olmamıs demıcem daha kotusude olabılıyomus KIsaca tam sızofren işi olmus (Jasper ve Alice için bu ezıyete katlanılabılır)Burdan Jasper Ali ve ridley harıc geri kalan herkese bir çift lafım var : Avada Kedavra!!! ,Negatif,Negatif
 tr_738,Sinemada gerçekleştirilen yapısal değişiklikler sonucunda kapasitesi artırılmıştır .,Nötr,Nötr
-tr_739,arkadaşlar kendiniz yapmayın yapmasını bilen birine yapın uygun kap kullanın çıkmıyor çok kaliteli. birini kendim yapmayı denedim olmadı ama 2 tane var içinde zaten :),Pozitif,Pozitif
+tr_739,arkadaşlar kendiniz yapmayın yapmasını bilen birine yapın uygun kap kullanın çıkmıyor çok kaliteli. birini kendim yapmayı denedim olmadı ama 2 tane var içinde zaten :),Pozitif,Negatif
 tr_740,Kulaklık o kadar kötü ki 7 buçuk liraya aldığım kulaklık daha iyi. kulaklığın bu kadar pahalı olmasının sebebi şık tasarımı olmasıdır. Ses yönünden kulağınızı tırmalıyor aşırı kötü. Bass falanda yok. Sakın almayın aldığıma pişman oldum.,Negatif,Negatif
 tr_741,Mekanize Kolordu da komutası altına girmiştir .,Nötr,Nötr
 tr_742,iğrenç bir plastik kokusu var yıkasamda gitmedi bu yüzden çöpe bu yüzden kullanmadım .ayrıca çok kalitesiz bu ürünün sağlıklı oldugunu düşünmüyorum beğenenlere şaşıyorum,Negatif,Negatif
@@ -803,7 +803,7 @@ tr_788,ürün daha dün elime ulaştı. denemek için kullandım. herhangi bir s
 tr_789,Bir sonraki satırda ise diğer taşıyıcı eklenir .,Nötr,Nötr
 tr_790," Türk sinemasının kült filmlerinden,artık böyle kalitede oyuncuda yok,filmde.Bir zamanlar sinema kalitedeydi.. ",Pozitif,Pozitif
 tr_791," Sinem izleyicisi ile kadın programları vb izleyen kitle arasında ki ayrımı farkedemeden, rezil ötesi bir film ile reyting alan programları ve izleyicileri eleştirmeye çalışılmış. Aldığı puan bile çok fazla. Recep İvedike haksızlık etmişiz. ",Negatif,Negatif
-tr_792,İlk defa kemalistlerle aynı fikirdeyim kemalist soytarı diyor ki Atatürk olmasaydı recep Tayyip Erdoğan ayasofyayı camiye çeviremezdi Vallahi doğru billahi doğru Çünkü Atatürk olmasaydı kimse ayasofyayı müzeye çeviremezdi işbundan dolayı reis camiye çevirebildi ,Negatif,Pozitif
+tr_792,İlk defa kemalistlerle aynı fikirdeyim kemalist soytarı diyor ki Atatürk olmasaydı recep Tayyip Erdoğan ayasofyayı camiye çeviremezdi Vallahi doğru billahi doğru Çünkü Atatürk olmasaydı kimse ayasofyayı müzeye çeviremezdi işbundan dolayı reis camiye çevirebildi ,Negatif,Negatif
 tr_793,Dezavantajlar : Mağazada 99 yazıyor burada 95 neden?<br />Ürün güzel,Negatif,Pozitif
 tr_794,Dünya Savaşı uçağıdır .,Nötr,Nötr
 tr_795,Hatta ender olarak altı kadar yavrunun doğduğu olur .,Nötr,Nötr
@@ -843,7 +843,7 @@ tr_828,Uluslar Ligi şampiyonu olmak için yine A Ligi grup birincileri arasınd
 tr_829,Ailesinde birçok heykeltıraş bulunmaktadır .,Nötr,Nötr
 tr_830,"fiyatına göre oldukça kaliteli bir ürün çok şey beklememek gerekir, genel olarak tüm androidlerdeki gibi bununda şarjı çok çabuk bitiyor.",Pozitif,Pozitif
 tr_831,Çalışanlar Kudüs’teki geçici yerleşim alanlarına yerleşti ve daha sonra Ein Kerem’deki kampüs açıldı .,Nötr,Nötr
-tr_832, Güldüremeyen bir Türk komedisi daha! ,Negatif,Negatif
+tr_832, Güldüremeyen bir Türk komedisi daha! ,Negatif,Nötr
 tr_833,Zırhlı Süvari Tugayı tarafından kullanılmaktadır .,Nötr,Nötr
 tr_834," öyle vay be dedirtecek yeni bir sahnesi oyunculugu olmayan,sirf jonny deep in palyaçolugunu izlemek için gidilecek bir film. ",Negatif,Negatif
 tr_835,oturma yerindeki bez gerdirilmediği için oturunca çukur kaldığından öndeki boru kısa sürede ayaklarda diz kapağının hemen arkasından çok rahatsız ediyor.mindersiz uzun süre oturmak zor.,Negatif,Negatif
@@ -885,7 +885,7 @@ tr_870,Böyle bahtın içine sokam hep mi aksilik olur ,Negatif,Negatif
 tr_871,yapışmıyor yapissada kılıf takılınca kalkiyor,Negatif,Negatif
 tr_872," inanılmaz sıkıcııı. o 3 saat insanı gerçekten de çok boğuyor. filmde atraksiyon yok. anca birbirlerini kessinler, öldürsünler vurdu kırdı, zaten o kız arada kalmış bi onla , bi diğeriyle. uzak durunnn. zaman kaybı. ",Negatif,Negatif
 tr_873,ürünü 2 yaşındaki çocuğumu yaz ayların da rahat gezdirmek için almıştım. gayet kaliteli ve dayanıklı. ilgilenenler tereddüt etmesin ,Pozitif,Pozitif
-tr_874, hollywood senaristlerinin ve yönetmenlerinin son yıllarda senaryo yazımındaki eksiklerini yabancı filmleri uyarlayarak geçiştirmeye çalışıyorlar bu filmde onlardan biri.(yeni çıkıcak ejderha dövmeli kızın hollywood uyarlaması gibi) ,Negatif,Pozitif
+tr_874, hollywood senaristlerinin ve yönetmenlerinin son yıllarda senaryo yazımındaki eksiklerini yabancı filmleri uyarlayarak geçiştirmeye çalışıyorlar bu filmde onlardan biri.(yeni çıkıcak ejderha dövmeli kızın hollywood uyarlaması gibi) ,Negatif,Negatif
 tr_875, cok kötü olmus.... amerikan pastası we benzer fimlere benzetilmesi cok sacma.özellikle bi esprinin defalarca yapılması( sakarın sürekli düsmesi vs.)cok kötü.hç tavsiye etmem paranıza yazık!!! ,Negatif,Negatif
 tr_876,Pat durumunda oyun beraberlikle sonuçlanır .,Nötr,Nötr
 tr_877,6 aylık bebeğime sürekli kullanıyorum. fiyatı burada süper daha ucuza başka yerde yok üstelik de eve teslim daha ne olsun..tesekkurler hepsi burada,Pozitif,Pozitif
@@ -911,7 +911,7 @@ tr_896,kullanıla bilir ve ucuz yazıcıma tam uyum sağladı diyebilirim.herkes
 tr_897,İlçenin merkezi Soda Springs şehridir .,Nötr,Nötr
 tr_898, bence hiç iyi olmamıs beyenmedim ,Negatif,Negatif
 tr_899, yayında ve yapımda emeği geçen herkesin allah cezasını versin bu kafayla bizim sinemamız hayatta gelişmez çünkü hala izleyici geri zekalı yerine konuluyor ,Negatif,Negatif
-tr_900,"öncelikle; işlemci rakipleriyle aynı olmak zorunda, ardından kasası yine tekrar içeriyor, şeklini değiştirmeli. öte yandan deri kapak kullanışlı değildir, dokunmanı hissiyatı ne kadar iyi olursa olsun deri 6 ayda deforme olur, rengi değişir, leke olur vs. (bkz. orjinal deri kılıfların eskimesi). sektörün liderleri apple ve samsung net değişiklikler yapmışken lg bence geride çok geride kaldı.",Negatif,Negatif
+tr_900,"öncelikle; işlemci rakipleriyle aynı olmak zorunda, ardından kasası yine tekrar içeriyor, şeklini değiştirmeli. öte yandan deri kapak kullanışlı değildir, dokunmanı hissiyatı ne kadar iyi olursa olsun deri 6 ayda deforme olur, rengi değişir, leke olur vs. (bkz. orjinal deri kılıfların eskimesi). sektörün liderleri apple ve samsung net değişiklikler yapmışken lg bence geride çok geride kaldı.",Negatif,Pozitif
 tr_901, Yaa mantık dışı bir film neyini beğendiniz.Bikere şüpheyle izleyin ne dediğimi anlayacaksınız.Kurt adamlar vampirlerin canını okuyor.Üstelik vampirlerde kurtadamlardan kaçıyorlar ama nası oluyorsa vampirler kurtadamların soylarını tüketiyorlar.Biras mantık yaa ne biçim kurgu böyle.Çok gereksiz bir film izlerken sıkıldım.Ki ben böyle filimleri severim.Yazık hiç olmamış... ,Negatif,Negatif
 tr_902, bence mükemmel bi film izlediğim en iyi gerilimlerden biri ,Pozitif,Pozitif
 tr_903, 1. dünya savaşında milyonlarca insan savaştı ve öldü.adamlar gitmiş yine 4-5 tane amerikalı yutseveri bulmuş ve savaştırmışlar....her zaman olduğu gibi yine amerikalılar kazanır...filmin konusu bu...izleyenlere sabır arkadaşlar10/2 ,Negatif,Negatif
@@ -1226,7 +1226,7 @@ tr_1208,berbatsu anda otelde ucuncu gunum ve ne yazık kı daha uc gunum daha va
 tr_1209,"Ürün geç geldi. Üstelik 3 gündür servis de kurulumunu yapmadı. Ne arayan
 var ne soran. Pişman olduk.",Negatif,Negatif
 tr_1210," Ne yazsam diye düşünüyorum sözün bittiği noktadayım.Bu filmi İZLemeyin!!!Dilim tutuldu,içimden defalarca AHMak diye haykırdım.Yönetmen bey bu filmi yapmak en hafifinden İNSafsızlıktır.Bakın film sanatsal olarak fevkalade olabilir ama tam anlamıyla bir MAZoşistliktir.Neyse kuyruk acısıyla konuşuyorum KALbim allak bullak.Başardın YÖNetmenimBİZi DAĞıtmayı BAŞardın. ",Negatif,Negatif
-tr_1211,3 seviye çekiyor işte,Negatif,Negatif
+tr_1211,3 seviye çekiyor işte,Negatif,Pozitif
 tr_1212,ürün tahmin ettiğimden daha küçük ebatlarda. universal olması iyi. bir çok pil çeşidinde şarj olayını çözüyor. kapak kısmı fazla dayanmayabilir. ısınma sorunu yaşamadım. oldukça hafif. ataba modellerine göre daha şık dizayn edilmiş.,Pozitif,Pozitif
 tr_1213,mağazadan almak daha iyi bence en azından testerına denemek daha mantıklı edpnin daha kalıcı olması gerektiğini zannediyordum ama umduğum gibi çıkmadı,Negatif,Negatif
 tr_1214,fi ci pi üçlemesi harika kitaplar. okumanızı tavsiye ederim. ,Pozitif,Pozitif
@@ -1269,7 +1269,7 @@ tr_1250,motosiklet kullanirken giyiyorum. kesinlikle terletme ve üşütme yapm�
 tr_1251,tasarımı güzel sadece biraz büyük  keşke ampülü  de olsaydı. kargo hızlı bir biçimde geldi. fiyatı uygun.,Pozitif,Pozitif
 tr_1252,Siyasal Bilgiler ve Hukuk Fakültesi mezunudur .,Nötr,Nötr
 tr_1253,"desenleri çok güzel, kızım diş fırçalarken artık eğleniyor. çok güzel düşünülmüş. teşekkürler",Pozitif,Pozitif
-tr_1254,aventi̇n bütün ürünleri̇ni̇ aldim kullandim ama bu çok basi̇t bi̇r ürün bu kadarini hi̇ç beklememi̇şti̇m hem bakicimiza hem  kendi̇mi̇ze aldim bi̇ri̇ni̇n deli̇ği̇ bi̇le açik deği̇ldi̇ ,Negatif,Negatif
+tr_1254,aventi̇n bütün ürünleri̇ni̇ aldim kullandim ama bu çok basi̇t bi̇r ürün bu kadarini hi̇ç beklememi̇şti̇m hem bakicimiza hem  kendi̇mi̇ze aldim bi̇ri̇ni̇n deli̇ği̇ bi̇le açik deği̇ldi̇ ,Negatif,Pozitif
 tr_1255,Gerilim negatif yüklü elektronların iletken boyunca hareket ettiği bir elektriksel kuvvettir .,Nötr,Nötr
 tr_1256,fiyatına göre çok iyi ürün ama duvara sabitlemeniz gerekiyor yoksa baya bi sallanıyor,Pozitif,Pozitif
 tr_1257, beğenmedim filmi ... gerekesiz bir yapım ... 10/4 ,Negatif,Negatif
@@ -1325,7 +1325,7 @@ tr_1306,"telefonu bir haftadır kullanıyorum. şarj ve birkaç özelliği dış
 tr_1307,"düz saçlar için iyi sayılır ama dalgalı,kıvırcık saçlar için olmaz",Negatif,Negatif
 tr_1308,Göçmenlere bazen ekonomik sığınmacı denilmektedir .,Nötr,Nötr
 tr_1309,kesinlikle herkese tavsiye edebileceim bir ürün kuluanıcların hemen hemen tüm isteklerine cevap verecilecek şekilde üretilmiş diyebilirim ki ıphoneu aratmaz her yönü ile dört dörtlük bir ürün,Pozitif,Pozitif
-tr_1310, Eğer kaybetmek için çok vaktiniz varsa ve bu vakti harcamak istiyorsanız izleyebilirsiniz. ,Negatif,Pozitif
+tr_1310, Eğer kaybetmek için çok vaktiniz varsa ve bu vakti harcamak istiyorsanız izleyebilirsiniz. ,Negatif,Negatif
 tr_1311,Çok temizdi. Personel iyiydi. Yemekler dısında hersey iyiydi.,Pozitif,Pozitif
 tr_1312,İdari Vesayet Merkezi Yönetimin yerel yönetimler üzerindeki denetim yetkisine denir .,Nötr,Nötr
 tr_1313,Clemens tarafından kuruldu ve başlangıçta Rönesans ve antika eserler içeriyordu .,Nötr,Nötr
@@ -1359,7 +1359,7 @@ tr_1340,"dün siparişini verdiğim ürünler bugün elimize ulaştı(i̇stanbul
 tr_1341, afedersiniz gaz yapmaktan geğirmekten el hareketinden başka bişey yok. adam aerobic yapıyo gaz yapıo . millet kahkahalara bogluyo . bu yetenek değildir ki . sende aynısını yapsan sanada gülerler. tabi gülüp gülmemesi karşıdaki insanın komedi anlayışına bağlı . adama tokat atıyo millet gülüyo . bu nedir ki yani bu kadar mı düştük seyirci olarak.? inanamıyorum :s ,Negatif,Negatif
 tr_1342, tüm zamanların en ii 5 filmi hangisi die sorsanız bana testere serisi derim tabikide süper bir yapım 6. sını sabırsızlıkla bekliyorum... ,Pozitif,Pozitif
 tr_1343, ilki kadar değil ama izlemeye değer ,Negatif,Pozitif
-tr_1344,"babam ile 1 saat kadar kısa bir sürede kurduk, daha kısa sürede de kurabilirdik ama kurulum şemasına bağlı kalmadık zaten çok okunaklı ve açıklayıcı değil. ürünün içindeki vidalar eksik çıktı zaten en büyük korkum da buydu dolayısıyla askı borusunu monte edemedim. bence hiç düşünmeden alın fiyatı uygun, piyasada bu kadar uygununu bulamazsınız.",Pozitif,Pozitif
+tr_1344,"babam ile 1 saat kadar kısa bir sürede kurduk, daha kısa sürede de kurabilirdik ama kurulum şemasına bağlı kalmadık zaten çok okunaklı ve açıklayıcı değil. ürünün içindeki vidalar eksik çıktı zaten en büyük korkum da buydu dolayısıyla askı borusunu monte edemedim. bence hiç düşünmeden alın fiyatı uygun, piyasada bu kadar uygununu bulamazsınız.",Pozitif,Negatif
 tr_1345,Kenarlar da düzeltildi ve bugünkü mevcut şekilleri verildi .,Nötr,Nötr
 tr_1346, bu kadar absüurd bi film gormedim ya okadar sacmaki artik koptum filmde bi ara insana hic bi duygu vermiyo filme bön bön bakıp ne üzülüyosun ne seviniyosun..bravo...!(= ,Negatif,Negatif
 tr_1347,Tanju Çolak aynı zamanda bir spor gazetesinde köşe yazarlığı yapmaktadır .,Nötr,Nötr
@@ -1392,7 +1392,7 @@ tr_1373,İşlem merkezi eklendi .,Nötr,Nötr
 tr_1374, vasat hatta vasat ötesi... bu arada aldığı puana bakarak izleyecek olanlarada sabır diliyorum. ,Negatif,Negatif
 tr_1375,"ingiliz panteri ve fransız braq cinsi iki köpeğim var ama ikisi de mamayı beğenmedi , eski mamalarına karıştırarak verdim , içinden resmen ayıklıyorlar",Negatif,Negatif
 tr_1376,gerçekten ürün denildiği gibi mikrofiber elinizle dokununca bile bir farklılık hissi veriyor kaliteli ,Pozitif,Pozitif
-tr_1377,çin iphone'u diyenlere 4c iphone'un yanından geçemez derim.,Negatif,Pozitif
+tr_1377,çin iphone'u diyenlere 4c iphone'un yanından geçemez derim.,Negatif,Negatif
 tr_1378," Adrian Brody'nin oyunculuguna söz yok ama film gerçekten çok kötü bir araba , orman ve bir adam ile çekilen anlamsız bir yapım... 10/4 ",Negatif,Negatif
 tr_1379,Yine aynı yıl Harika Avcı ile Gizli Aşk adlı dizide oynamıştır .,Nötr,Nötr
 tr_1380,Britanya filmi seçilmiştir .,Nötr,Nötr
@@ -1419,7 +1419,7 @@ tr_1400,geç aldiğima pi̇şman oldum çok güzel bi̇r ürün asla pi̇şman o
 tr_1401,Mahallede çok sayıda askeri personel ve aileleri ikamet etmektedir .,Nötr,Nötr
 tr_1402,en hızlı gelen kargom oldu teşekkürederim süper bir dolap   bakalım diğer siparişlerim kaç gun içerisinde gelicekler.siparişi verelitam 4 gun oldu,Pozitif,Pozitif
 tr_1403,Zarara maruz kalan ağaçlar kısa zamanda ölürler .,Nötr,Nötr
-tr_1404,"arka planda hiç bir uygulama çalışmıyor iken, 3gb memorinin 2 gb nı nasıl kullanmayı başarıyor bilmiyorum.",Negatif,Pozitif
+tr_1404,"arka planda hiç bir uygulama çalışmıyor iken, 3gb memorinin 2 gb nı nasıl kullanmayı başarıyor bilmiyorum.",Negatif,Negatif
 tr_1405,banyo bataryası ecostat serisi termostatik batarya,Negatif,Pozitif
 tr_1406,İlk profesyonel olarak çalıştığı tiyatro Ankara Sanat Tiyatrosu dur .,Nötr,Nötr
 tr_1407,Her sınıfın üst sınırı bir önceki sınıfın üst sınırının iki katıdır .,Nötr,Nötr
@@ -1432,7 +1432,7 @@ tr_1413,Şarkı Gürcüce dilinde seslendirilmiştir .,Nötr,Nötr
 tr_1414,İlk çeviriler diğer Avrupa dillerinde de yer aldı .,Nötr,Nötr
 tr_1415,2 yaşındaki oğlum için aldım memnun kaldım gayet konforlu oğlum sevdi yalnız koltuğun kemer bağlama yeri biraz aşağıda kalmış kemeri bağlarken sıkıntı oluyor bunun dışında ürün çok iyi.alacaklara tavsiye ederim,Pozitif,Pozitif
 tr_1416,Kamerun ve Togo bu topluluğa üye olmayan ilişkili devletler konumundaydı .,Nötr,Nötr
-tr_1417,Mustafa Kemal de kadına şiddetçiydi. Sarhoşken Latife Hanım'ı yabancı elçilerin eninde dövmek istemişti.,Negatif,Negatif
+tr_1417,Mustafa Kemal de kadına şiddetçiydi. Sarhoşken Latife Hanım'ı yabancı elçilerin eninde dövmek istemişti.,Negatif,Nötr
 tr_1418,Diğer illerde ise kooperatif kurma çalışmaları sürmektedir .,Nötr,Nötr
 tr_1419,Belediyeler ise bu ilçelerin içinde bulunmaktadır .,Nötr,Nötr
 tr_1420,"fena değil.herşeyi eleştiren biri değilim ama,çokta memnun kalmadım",Negatif,Negatif
@@ -1541,8 +1541,8 @@ tr_1522,1. kamera. her iki kamerada gayet güzel foto çekiyor. videosu da iyi.,
 tr_1523,Aldığı olumlu eleştiriler sayesinde dizinin ikinci sezonunda da bulunmaktadır .,Nötr,Nötr
 tr_1524,Yalnız Adam şarkısıyla tanınmıştır .,Nötr,Nötr
 tr_1525,"tavsiye üzerine aldım ve teslimattan hemen birkaç saat sonra da kullanmaya başladım. sonuçtan memnun kaldım, tam dipten düzleştiriyor, saçımı kırmıyor, yakmıyor ve parlak gösteriyor.",Pozitif,Pozitif
-tr_1526,arkadaşlar öncelikle merhaba. ,Pozitif,Nötr
-tr_1527,tavsiye edermiyim? evet,Pozitif,Pozitif
+tr_1526,arkadaşlar öncelikle merhaba. ,Pozitif,Pozitif
+tr_1527,tavsiye edermiyim? evet,Pozitif,Negatif
 tr_1528,Köyde alevi ve sünni vatandaşlar bir arada yaşamaktadırlar .,Nötr,Nötr
 tr_1529,"ürün güzel. alanlara tavsiye ederim. büyüklüğü olsun omurgasının sağlamlığı olsun, yere basışı olsun gayet güzel. hepsiburada com zaten güvenilir. üründe 24 saatte kargoda demesine rağmen biraz gecikti. ama gene de hepsiburada com iyi çalışıyor. güvenilir.",Pozitif,Pozitif
 tr_1530,Albüm grubun ilk uluslararası yayınlanacak albümü olarak ayarlandı .,Nötr,Nötr
@@ -1555,7 +1555,7 @@ tr_1536,ÜRÜN KÖTÜ SAÇI TUTMUYOR HEMEN DAĞILIYOR EN UFAK BİR RÜZGARDA TAV
 tr_1537,bu markanın 5w 8w ve 12w aldım.açıkçası 5 ve 8 tatmin etti beni ama 12w beklediğim kadar aydınlatmadı.,Negatif,Negatif
 tr_1538,sizin dedeniz belibende onu diyorum orospu çocuğu,Negatif,Negatif
 tr_1539, İş görmez bir film 'wanted' ile kıyaslayanlara lafım şudur: 'yanına bile yaklaşamaz.' Eğer Angelina değilde başka biri oynasaymış filmin sonunu getiremezdim heralde. ,Negatif,Negatif
-tr_1540,sebebini bilemiyorum belki merceklerinde sıkıntı olabilir vs,Negatif,Negatif
+tr_1540,sebebini bilemiyorum belki merceklerinde sıkıntı olabilir vs,Negatif,Pozitif
 tr_1541," ...&quot;Shakespeare in Love&quot; ile adini genis kitlelere duyuran yonetmen John Madden&#39;in &quot;Proof&quot;u, son birkac yildir delilikle dahilik arasinda gidip gelen profesor babasinin yanindan ayrilmayan Catherine&#39;in hikayesini anlatan zor bir film. Bir yandan ablasi Claire&#39;in baskisi, diger taraftan babasinin ogrencisi olan Hal&#39;in kendisine olan ilgisi Catherine&#39;i bunaltirken, seyirci de bu bagiris cagiris icinde gecen hikayenin icine girmekte zorlaniyor, film de uzun olmayan suresine ragmen yer yer de yorucu olmaktan kurtulamiyor. Ancak filmin artilarina gelince, oyuncularin performansi one cikiyor. Hopkins&#39;in varligi zaten yeterli, ancak Paltrow kariyerinin en iyi performanslarindan birini (belki de en iyisini) ortaya koyuyor...(4/10) ",Negatif,Negatif
 tr_1542," bence gelmi&amp;#351; geömi&amp;#351; en güzel tom hanks klasiklerinden biri zaten bi filmin içinde tom hanks varsa film müthi&amp;#351; demektir örn:da vinci &amp;#351;ifresi ,azap yolu,er ryan&amp;#305; kurtarmak vb. ",Pozitif,Pozitif
 tr_1543,Her iki etap için ihalesi yapılmış ve çalışmalara başlanılmıştır .,Nötr,Nötr
@@ -1683,7 +1683,7 @@ tr_1664,elektrik isi icin aldim delici kirici olarak her türlü kullaniyorum hi
 tr_1665, öyle böyle değil. bu kadar klişe ve bu kadar kötü bir korku filmini gösterime sokmak bile yazık. ,Negatif,Negatif
 tr_1666,şu ana kadar adedi 50 krş dan aşağı bulamamıştım ki hb beni yine mutlu etti herzamanki gibi adedi 42 krş a geliyor :),Pozitif,Pozitif
 tr_1667,telefonu 1 yıla yakındır kullanıyorum. ,Negatif,Pozitif
-tr_1668, Daha kötüsü yapılana kadar en kötüsü bu... ,Negatif,Negatif
+tr_1668, Daha kötüsü yapılana kadar en kötüsü bu... ,Negatif,Nötr
 tr_1669,Suudi Arabistan dünyada kadınların araba kullanmasını yasaklayan tek ülkedir .,Nötr,Nötr
 tr_1670,mükemmelherseyle memnun kaldım özellikle giriş işlemlerini yapan onur bey cok ilgilendi teşekkür ederim çocuklarımla harika bir tatil geçirdik yemekler güzeldi tek sorun aksam yemeklerinde biraz kuyruk oluşu animasyon iyi ozellıkle çocuklarımla ılgılenen lisa veelif hanım cok memnun kaldıkpersonel güler yüzlü neyi söylesek anın da yerine geldi mınıbarda bıraz eksiklik var birazdaha artırılabilir,Pozitif,Pozitif
 tr_1671,trust marka eski optik mouse'um koltuk üzerinde daha iyi yanıt veriyordu.bu hep takılıyor.aldığıma çok pişman oldum 7 tl lik çin mouse lerinden hiç farkı yok.iyi yorumların hepsi masa üzeri kullanıyorlar heralde :(,Negatif,Negatif
@@ -1697,7 +1697,7 @@ tr_1678,O andan itibaren çete diğerleri kadar vahşi ama düzensiz bir hal ald
 tr_1679,2 gün içinde elime ulaştı. piyasadaki en iyi soyacak diyebilirim.,Pozitif,Pozitif
 tr_1680,Ancak kampa ulaşana kadar tüm ordular tamamen dağılmıştır .,Nötr,Nötr
 tr_1681,e) fiyat uygun,Pozitif,Pozitif
-tr_1682,"ürün güzel, bizim kedi de sevdi ama bu kutu bizim kediye fazla geliyor. bir günde 3 öğün versek de bitiremiyor.",Pozitif,Pozitif
+tr_1682,"ürün güzel, bizim kedi de sevdi ama bu kutu bizim kediye fazla geliyor. bir günde 3 öğün versek de bitiremiyor.",Pozitif,Negatif
 tr_1683,"çok memnunum.uzun bir zamandır arıyordum,hepsiburada.comda bulacağımı da biliyordum.",Pozitif,Pozitif
 tr_1684,Çünkü otelde en az elli stajyer vardır ve hiçbirinin adı deniz değildir .,Nötr,Nötr
 tr_1685, filmi beğenmedim ben. yani mide bulandırıyor pek germiyor. ,Negatif,Negatif
@@ -1795,7 +1795,7 @@ tr_1776,yani fiyat için ön ışıl ihtiyacına çok kaliteli değil ama arka �
 tr_1777,Olan amk evladı Ne nihat abisi fbye trasfer yaptırmıyan nihat değilmiydi Zorlu diyonda şimfi anana zorla sokturma zırlu toplantıs olurken liderdik şimdi kaçıncıyız amk piçi İşiniz algı yaln hile şike şaibe oıruspu çocukluğu ,Negatif,Negatif
 tr_1778,Asıl adı Mahmut Seyit Ali olan Iraklı Türkmen şair .,Nötr,Nötr
 tr_1779,Kırgızistan havzasındaki çevresel sorunlardan nehir ciddi şekilde olumsuz etkilenmektedir .,Nötr,Nötr
-tr_1780, filmi daha izlemedm ama deep oynuosa gerisi önemsz filmn süper olduğuna inanıorm kim ne derse desin ,Pozitif,Negatif
+tr_1780, filmi daha izlemedm ama deep oynuosa gerisi önemsz filmn süper olduğuna inanıorm kim ne derse desin ,Pozitif,Pozitif
 tr_1781,Türkistan ilçesinde ilk eğitim öğretim hayatına başlar .,Nötr,Nötr
 tr_1782,On Birkaç olayda kocası ve kardeşi arasında danışman ve arabulucu olarak görev aldı .,Nötr,Nötr
 tr_1783, carpenterdan sonra ... berbat olur diye düşünüyorum... ,Negatif,Negatif
@@ -1885,7 +1885,7 @@ tr_1861, harcanan emeğe saygım var...ama filmi beğenmedim...tv deki karadeniz
 tr_1862,piyasa fiyatıyla kıyaslandığında çok ucuz bence...,Pozitif,Pozitif
 tr_1863,fiatı çok uygun,Pozitif,Pozitif
 tr_1864,ailecek aldık ve çok memnun kaldık. özellikle çocukların diş fıralama alışkanlığı için çok faydalı herkese tavsiye edebilirim. ,Pozitif,Pozitif
-tr_1865,fena degilsadece canli müzik dinlemek icin ideal bi otel yemekler iyi degil mudur haric personel cok saygili efendi onceki yorumlar yaniltici kesinlikle personel iyi biz ailecek begendik oteli mudur haric,Pozitif,Negatif
+tr_1865,fena degilsadece canli müzik dinlemek icin ideal bi otel yemekler iyi degil mudur haric personel cok saygili efendi onceki yorumlar yaniltici kesinlikle personel iyi biz ailecek begendik oteli mudur haric,Pozitif,Pozitif
 tr_1866,Ürünü aldım fakat tam bi fiyasko ile karşılaştım gerçekten dışardaki 50-60 tl satılan kulaklıklardan bi farkı yok öyle profesyonel bişey beklemeyin ses kalitesi 10/6 veriyorum özellikle bass için alacak arkadaşlar lütfen farklı kulaklık baksınlar bass bu kulaklıkta yok,Negatif,Negatif
 tr_1867,"Anlamı ""zehir""dir .",Nötr,Nötr
 tr_1868,üzerinde ufak tefek delikler vardı. ürünü beğenmedim.,Negatif,Negatif
@@ -1945,7 +1945,7 @@ tr_1920,"yıkama programları görevini tamamen uyguluyor, ön yıkama programla
 tr_1921,150 sayfa kadar okudum çok sıkıcı hayatımda okuduğum en saçma kitaptı tavsiye etmiyorum,Negatif,Negatif
 tr_1922," Açıkçası 'Dolar Üçlemesi' serisinin (Bir Avuç Dolar - Birkaç Dolar İçin - İyi,Kötü,Çirkin) yanında çok vasat kalan bir film.Öncelikle bu filmde bahsettiğim üç filmdeki kadar sağlam karakterler yok, temposu çok ağır, süresi gereğinden fazla uzun, 3 saat boyunca izleyici bunaltan gereksiz sahnelerle dolu...Evet bu filmin de senaryosu olsun yönetmeni olsun, müzikleri olsun yapan aynı isimler ama Dolar Üçlemesindeki herhangi bir filmin 10 dakikasını şu filmin tamamına tercih ederim.Efsane Western serisinin ardından gelen bu yapım yavan,tatsız olmuş.5,0 / 10(Kişisel yorumumdur, beğenenlere saygım sonsuz) ",Negatif,Negatif
 tr_1923,The Gold Edition oyunun dijital özel sürümüdür .,Nötr,Nötr
-tr_1924,aaaaaaaaaa++++++++,Pozitif,Pozitif
+tr_1924,aaaaaaaaaa++++++++,Pozitif,Negatif
 tr_1925, Filmin uyarlandığı kitabın sonu daha güzeldi mort rainey ölüyordu stephan king farkı ama filmin sonuda güzeldi mort rainey bu sefer öldürüyor ee farklı bir bakış acısı :) şizofreni rolünü johnny depp güzel yapmış izlenmeye değer bir film ,Pozitif,Pozitif
 tr_1926," film tam bayanlara gore,ana krakterde olması gereken kişinin yuzu hiç bi zaman gozukmuyor,adam karısını aldatıyor,o kadar şey yapıyor ve filmin içinde ne goruntusu ne de sesi duyuluyo,2.kişilerin agzından yaptıklarını ogreniyoruz. hiçbi farklılık yok diger filmlerden,tamamen sinema filmi olsn diye çekilmiş. ",Negatif,Negatif
 tr_1927,Uzun adlı şerefsize söyleyecek şey yok,Negatif,Negatif
@@ -2036,7 +2036,7 @@ tr_2009,Demiryolu ulaşımı da mevcuttur .,Nötr,Nötr
 tr_2010," bu filmle ilgili yazmayı uzun zamandır istiyorum ama benim için o kadar önemli ki, değerini teslim edemeyecek bir şeyler yazmaktan çekiniyorum. almodovar sevenler bilir, yönetmen her filminde hayatta her gün olan ama hala bize garip gelen, bir türlü alışamadığımız şeyleri ele alır. ölüm, eşcinsellik, aldatma, terk edilme, tecavüz, aşk... ve bu olayların aslında ne kadar da normal, hayata dair olduğunu adeta gözümüze sokar. işte annem hakkında her şeyde de tam olarak bunu yapıyor. çarpık ilişkiler, evlendikten sonra cinsiyetini değiştiren bir adam, saçma sapan bir şekilde ölen bir oğul, oğlunun uğruna öldüğü şeye yakın olmaya çalışan bir anne ve bu annenin sonunda ölen oğlunun yerine yenisini (!) bulması. ve tüm bu olan biten esnasında karakterlerin hayran kalınacak soğukkanlılığı. onlar soğukkanlı, çünkü almodovar hayata bizden daha yukarıdan bakıyor. çünkü o hayatta başına gelebilecekleri kabullenmiş ve her şeyi ama her şeyi normal karşılıyor. annem hakkında her şey ise sadece bunu bize göstermek istediği mükemmel filmlerinden bir diğeri... ",Pozitif,Pozitif
 tr_2011,cihaz kesinlikle görevini güzel yapıyor ve sessiz. çok kısa bir sürede nefes almayı kolaylaştırıyor. buhar yoğunluk ayarını değiştirebiliyorsunuz. tavsiye ederim,Pozitif,Pozitif
 tr_2012,Tıpta kullanımı yaygındır .,Nötr,Nötr
-tr_2013,bu ürünü kullaniyorum bu si̇tede ucuz.dişarda pahali.çoğu  ürünleri̇ ucuza satiklari i̇çi̇n si̇te ye teşekkürler,Pozitif,Negatif
+tr_2013,bu ürünü kullaniyorum bu si̇tede ucuz.dişarda pahali.çoğu  ürünleri̇ ucuza satiklari i̇çi̇n si̇te ye teşekkürler,Pozitif,Pozitif
 tr_2014,Annesinin kimliği bilinmemektedir .,Nötr,Nötr
 tr_2015,Büyük şehirlerin isimleri daha büyük yazıyla belirtilmiştir .,Nötr,Nötr
 tr_2016,Popüler teknikler nispeten yenidir .,Nötr,Nötr
@@ -2095,7 +2095,7 @@ tr_2068, Tek kelimeyle berbat.Arkadaşlar filmde seneryo 0 oyunculuklar 0.Benim 
 tr_2069,ermeni dölü sen tabi sevinmezsin ayasofyanın açılmasına,Negatif,Negatif
 tr_2070,anneler gününde anneme aldım. gerçekten şık duruyor. taşı küçük vs ama bu paraya da kaşıkçı elmasını vermezler adama. alın sevdiğinize hediye edin pişman olmazsınız.,Pozitif,Pozitif
 tr_2071, kesinlikle ve kesinlikle hayal kırıklığına uğramadım tam bir fantasia verdiğim para sonuna kadar helal olsun ama bu filme giderken pek fazla gerçekçilik beklemeyin... ,Negatif,Negatif
-tr_2072,ürün özelliklerinden anladığım kadarıyla bu ürün 2.3ghz lik 32gb versiyonu değil. asus doğu asya için bir ara model daha çıkarmıştı. bu modelde 32gb rom kullanmasına rağmen 16gb lık üründe kullanılan 1.8ghz lik işlemciyi kullanıyor. zaten fiyatı çok uygun. alırken dikkat edelim lütfen.,Pozitif,Pozitif
+tr_2072,ürün özelliklerinden anladığım kadarıyla bu ürün 2.3ghz lik 32gb versiyonu değil. asus doğu asya için bir ara model daha çıkarmıştı. bu modelde 32gb rom kullanmasına rağmen 16gb lık üründe kullanılan 1.8ghz lik işlemciyi kullanıyor. zaten fiyatı çok uygun. alırken dikkat edelim lütfen.,Pozitif,Negatif
 tr_2073,fiyatına göre fena değil ama iç içe geçmeli parçalardan 2 tanesinde üretim hatası var ve diğerleri kolayca geçmedi. zorlarken de el kesikleri meydana gelebiliyor. kurulduktan sonra sıkıntı yaşamadım. güzel bir ürün,Pozitif,Pozitif
 tr_2074,Burada birçok rolü canlandırdı .,Nötr,Nötr
 tr_2075,"ürünü işyerinde kullanmak için aldık günde 5-6 kez çay demleriz, işimizi fazlasıyla gördü, fiyatına göre iyi bir ürün işinizi görür, tavsiye ederim, teşekkürler ",Pozitif,Pozitif
@@ -2152,7 +2152,7 @@ tr_2125,Bu olayın yaklaşık bir milyon yıl içinde gerçekleşeceği sanılma
 tr_2126, Oscarlı film dedim izlernir dedim(güzel demiyorum) sıkıcı değildir dedim yok yok yok hadi bu sahneden sonra saracak hadi şimdi haraket ama yok yok yok Oscarlı film deyip izlemek zahmetinde bulunmayın lütfen ,Negatif,Negatif
 tr_2127,merhaba arkadaşlar makina bugün elime ulaştı efsane üflüyor diğer makinamdan sonra çok iyi geldi ama ağızlığı bir tık daha büyük olabilirdi,Pozitif,Pozitif
 tr_2128,güzel bir ürün hoşuma gitti,Pozitif,Pozitif
-tr_2129,mesela onu özlüyorum değil de o beni eksik bıraktı  diyorsun,Negatif,Pozitif
+tr_2129,mesela onu özlüyorum değil de o beni eksik bıraktı  diyorsun,Negatif,Negatif
 tr_2130," iyi film yapmak, yada iyi bilim kurgu filmi yapmak bu kadar kolay ve basit olmamalı... biraz &quot;bugün aslında dündü&quot; biraz da &quot;12 maymun&quot; filmlerinde esinlenmiş ama ikisininde yanına bile yaklaşamayacak vasat bir film... ",Negatif,Negatif
 tr_2131,çok güzeltemmuz   ağustos    tarihlertinde melodi otelde kaldık aile oteli olan melodi otelde çocuklarımızla çok rahat ettik personel çok ilgili ve güleryüzlü idi kendimizi evimizde gibi hissetttik odalarımız her gün temizlendi sene ye daha uzun kalmayı düşünüyoruz,Pozitif,Pozitif
 tr_2132, türk sinemasının gelebilleceği artık son nokta ,Negatif,Pozitif
@@ -2174,7 +2174,7 @@ tr_2146,"saglam, kaliteli. bazi askilar fincan asilinca egilir bu kesinlikle oyl
 tr_2147,Amasya ö .,Nötr,Nötr
 tr_2148,servislerde kullandıkları motor yağlarını denetleme şansımız yok. ben bu yağı alıp gözlerimin önünde koydurdum. öncelikle ses belirgin miktarda azaldı ve çekiş gücü arttı yakıt tüketimi bir miktar düştü (şehir içi+ dışı ortalama 8.4l/100km den 8.2l/100km ye) söylemeye bile gerek yok ki motor yağı her seferinde mutlaka orjinal yağ filtrenizle birlikte değiştirilmeli...,Pozitif,Pozitif
 tr_2149,Büyümesi oldukça hızlıdır .,Nötr,Nötr
-tr_2150,"sprey sıktıktan sonra yapıştırma süresi neredeyse 5 sn.yanlız dikkat edilmesi gereken bir husus var.sprey sıkıp,yapıştırıcıyı sürerken tek tarafa sürün aksi taktirde yapıştırılan yüzeyler arasına bariyer koymuş gibi oluyor ve görüntüsü kötü olacak şekilde yapışan yüzeyde kalınlık oluşuyor.",Pozitif,Negatif
+tr_2150,"sprey sıktıktan sonra yapıştırma süresi neredeyse 5 sn.yanlız dikkat edilmesi gereken bir husus var.sprey sıkıp,yapıştırıcıyı sürerken tek tarafa sürün aksi taktirde yapıştırılan yüzeyler arasına bariyer koymuş gibi oluyor ve görüntüsü kötü olacak şekilde yapışan yüzeyde kalınlık oluşuyor.",Pozitif,Pozitif
 tr_2151, Dünyanın en iğrenç filmi. ,Negatif,Negatif
 tr_2152,arkadaşlar kargoda  bir gecikme olmadı fakat ürün spor salonundaki z barlar kadar kıvrımlı değil daha düz bileğiniz tam bükülmüyor.ama bu fiyata göre fena sayılmaz.,Negatif,Negatif
 tr_2153,Gökyüzünde Koç takımyıldızı yönünde yaklaşık olarak uzaklıkta bulunur .,Nötr,Nötr
@@ -2290,7 +2290,7 @@ tr_2259,"kimse yazmadığı için buraya yazıyorum ben bunu çok aramıştım b
 tr_2260,Grup ayrıca çeşitli Grammy Ödülü adaylığı aldı .,Nötr,Nötr
 tr_2261,İlk dönem albümlerinde yapımcısı Orhan Gencebay olmuştur .,Nötr,Nötr
 tr_2262,kokusu muazzam ayrıca tuvaleti de köpük köpük temizliyor.harika!,Pozitif,Pozitif
-tr_2263, İnsan genleri kopyalanarak yedek parça deposu gibi kullanılmak üzere üretilmiş canlılar! Güzel bir konu ve insan doğasının vahşi yönünün gözler önüne serilmesi. ,Negatif,Negatif
+tr_2263, İnsan genleri kopyalanarak yedek parça deposu gibi kullanılmak üzere üretilmiş canlılar! Güzel bir konu ve insan doğasının vahşi yönünün gözler önüne serilmesi. ,Negatif,Pozitif
 tr_2264,fazla söze gerek yok alan pişman olmaz ,Pozitif,Pozitif
 tr_2265,ürün önceki kumandamızla görsel olarak aynı olmasına göre çok daha daha kullanışlı. bu kadar uygun fiyata olması tercih sebebimdi. beklentimi fazlasıyla karşıladı.,Pozitif,Pozitif
 tr_2266," Filmle ilgili Holymindin görüşlerine katılıyorum. Bu filmi ben de hiç tarafsız bulamadım. Öyle bir şiddetin kanıksanması var ki insanların bunu hiçbir şey olmamış gibi, oyun oynayan çocuklarının yanında anlatması son derece rahatsız edici. İşin asıl yanı, bunu bir meşruluk düşüncesiyle aktardıkları belli oluyor. Yani işgalcilikleri bir yana, Filistinliler direndikleri için öldürülmeyi hak ediyor.. Her ne kadar savaşın kötülüğünü vermesiyle -sağolsun bir rahatsızlık yaratıyorsa da Filistinlilerden sadece 2-3 yerde Filistinli diye bahsetmesi, diğer yerlerde düşman, onlar vb. vb. diye bahsetmesi dikkatten kaçmıyor. Hele o çocukları, kadınları öldürüşleri, tanklarla arabaları ezişleri... bu bence adını vermeden günah çıkarma. Ama çıkarırken de şiddeti kanıksayan, bunu meşru sayan bir sinema diliyle yapma... Nasıl bir militarist toplum yaratmışlar, doğrusu bravo. Sineması bile bundan azade değil! ",Negatif,Negatif
@@ -2346,7 +2346,7 @@ tr_2315,beklentilerimi karşıladı memnuniyet verici aracıma opel astra h baga
 tr_2316,cihaz çok rahat bir şekilde dişleri fırçalamaya yarıyor ve fiyatıda uygun her kısıma ulaşıyor tek eksi yönü benim düşüncem şarj uzun sürmesi,Pozitif,Pozitif
 tr_2317, konu çok saçma ve film amaçsız sürüklüyor insanı. tam bir hayal kırıklığıydı benim için. birkaç efektleri dışında hiçbirşeyini beğenemedim. 10/4 ,Negatif,Negatif
 tr_2318,Başkenti Toledo şehridir .,Nötr,Nötr
-tr_2319," &quot;Pulse&quot; diyorum,başka söze gerek yok heralde ",Negatif,Negatif
+tr_2319," &quot;Pulse&quot; diyorum,başka söze gerek yok heralde ",Negatif,Pozitif
 tr_2320,hepsiburadaya çok teşekkür ederim,Pozitif,Pozitif
 tr_2321,ben zaten arabamı sonax dan boya koruma yaptırıyorum bunu hiç düşünmeden aldım kendim uyguladım arabada parlaklık gözle görülür şekilde belli oluyo hatta bi daha ki yıkamada su tutmuyo hemen kayıyor. fakat şunu da belirteyim alacak olan kişi sakın derin çiziklerimi kapatırmı diye düşünmesin öyle bişey yok sadece ufak kılcal çiziklerde başarılı. mutlaka tavsiye ederim,Pozitif,Pozitif
 tr_2322,urun cok saglam paketlenmisti. fotograftan bile daha guzel duruyor. odaya cok fark katti hepsi burdanin indiriminden yararlandim musteri memluniyeti tartisilmaz,Pozitif,Pozitif
@@ -2608,7 +2608,7 @@ tr_2577,İngilizler Yahudileri ya Kıbrıs’ta tutukladı ya da Almanya’da m�
 tr_2578,Kadınlar için üst kat ibadeti için ayrılmıştır .,Nötr,Nötr
 tr_2579,ürünü pazar günü si̇pari̇ş etti̇m sali günü eli̇me geldi̇ çok güzel bi̇r ürün bu fi̇yata pi̇yasa da bulabi̇leceği̇ni̇z özelli̇kleri̇ bakimindan süper bi̇r ürün,Pozitif,Pozitif
 tr_2580,Tipini siktiğimin orıspısı ,Negatif,Negatif
-tr_2581, bir grup genç maksat eğlence eğlence olsun diye cin cağırırlar vee sonunda hepsi teker teker öldürülürlerr.bu sizede biraz tanıdık gelmiyor mu??artık yeni seyler gormekk istiyoruz bunlar bizi korkutmuyor ,Negatif,Negatif
+tr_2581, bir grup genç maksat eğlence eğlence olsun diye cin cağırırlar vee sonunda hepsi teker teker öldürülürlerr.bu sizede biraz tanıdık gelmiyor mu??artık yeni seyler gormekk istiyoruz bunlar bizi korkutmuyor ,Negatif,Pozitif
 tr_2582,ürünü kutu açmadı sıfır eksiksiz güzel beğendim taşınabilir sarj diğer markalar 10400 biraz büyük tplink küçük çok güzel teşekkür ederim feneri bu çok iyi ama mesela kara görmez telefonu görüntülü konuşma gece feneri aç görüntülü iyi görünüyor sizi tavsiye ederim tplink süper,Pozitif,Pozitif
 tr_2583,Şampiyonada ülkesi için çok önemli iki gole imza attı .,Nötr,Nötr
 tr_2584,Bahçeye kemerli bir kapıdan girilir .,Nötr,Nötr
@@ -2781,7 +2781,7 @@ tr_2750,dün magazadan gittim aldim sirf kargo beklemeyim 2 gündür elimden dü
 tr_2751,Bu oyunda da deklare yapmak zorunludur .,Nötr,Nötr
 tr_2752,ürünü daha denemedim ancak göz damlası gibi küçük bir şişede geldi.,Negatif,Negatif
 tr_2753,wifi üzerinden girdiğiniz sitelerden filmleri açabiliyorsunuz çoğu farklı markada bu özellik yok flash player desteklemiyor hatası veriyor ama bunda öyle bir hata yok gayet güzel ve akıcı bir web browsera sahip,Pozitif,Pozitif
-tr_2754,"masa lambasında kullanılacaksa aydınlatma olarak yeterli, ampüle direk bakınca çok göz alıyor, dimmer ile kullandım çok daha iyi oldu. ",Pozitif,Negatif
+tr_2754,"masa lambasında kullanılacaksa aydınlatma olarak yeterli, ampüle direk bakınca çok göz alıyor, dimmer ile kullandım çok daha iyi oldu. ",Pozitif,Pozitif
 tr_2755,valla ben beğendim güzel sağlam kullanışlı bir çanta işte,Pozitif,Pozitif
 tr_2756,Osmanlı hanedan üyeleri yurtdışına sürgün edilene kadar Dolmabahçe Sarayı’nda yaşadı .,Nötr,Nötr
 tr_2757, Tamam gereksiz bir film yapılabilir; ama ne kadar gereksizlik varsa bu filmin üzerine toplanmış... Seyredilmesi bir yana fragmanına bile göz atılmamalı derim ben... ,Negatif,Negatif
@@ -2795,7 +2795,7 @@ tr_2764,en kısa zmanda gelsinki hızla tüketip yenisini sipariş edelim değil
 tr_2765,sorunsuz bir ürün çok şık evimizde çok güzel durdu ayrıca çok cabuk elimize ulaştı.,Pozitif,Pozitif
 tr_2766,rezaletplajı yok resimlerde plajıda gösteriyor en büyük sıkıntı bu bence yemek temizlik hak getire girdiğimiz anda çıkmak istedik ama insanların alakasızlığını görünce vazgeçtik oda değiştirmek istedik nerdeyse son güne bırakacaklardı hep aynı şeyler yiyecekler banyo oda tam anlamıyla rezalet herşey eski yol kenarında gezilecek hiçbir yer yok bir daha turla biryere gitmeyi düşünmüyorum gerçeği yansıtmıyor ne resimler ne de anlatılanlar sakın gitmeyin paranıza yazık,Negatif,Negatif
 tr_2767,Filmin hem Fransızca hem de İngilizce versiyonları vardır .,Nötr,Nötr
-tr_2768,ekran filmi ustunde takılı değil paketli olarak geliyor bunu siz uygulamalısınız. ben yaparken 2 3 baloncuk kaldı şimdilik böyle kullanıyorum üstünde takılı gelse daha iyi olurmuş. plastik arka kapak saydam guzel bir kapak kullanılır.,Pozitif,Negatif
+tr_2768,ekran filmi ustunde takılı değil paketli olarak geliyor bunu siz uygulamalısınız. ben yaparken 2 3 baloncuk kaldı şimdilik böyle kullanıyorum üstünde takılı gelse daha iyi olurmuş. plastik arka kapak saydam guzel bir kapak kullanılır.,Pozitif,Pozitif
 tr_2769,Egona koyam ,Negatif,Negatif
 tr_2770,İran ve Bangladeş ikili iyi ilişkilere sahiptir .,Nötr,Nötr
 tr_2771, Tüm ciddiyetimle söylüyorum ki bu film hayatımda izlediğim en kötü filmdi. Bu filmi beğendiyseniz heralde titanik armageddon gibi film gibi filmleri hiç izlememiş olsanız gerek. Bu filmi beğenmeyene kadar oscarlı filmler izleyin bence. ,Negatif,Negatif
@@ -2870,7 +2870,7 @@ tr_2837,çok iyi bir derin dondurucu daha fazla kullanmadık ama inşaallah memn
 tr_2838,Küçük yaşta yaşadıkları kendisini derinden etkiledi ve gençlik döneminde Arap milliyetçilik hareketlerine katıldı .,Nötr,Nötr
 tr_2839,ürün hızlı bir şekilde elime ulaştı. satıcı firmaya ve hepsiburadaya teşekkürler.,Pozitif,Pozitif
 tr_2840," Olaganustu bir film degil,klasik bir ask filmi,farkli kilinmaya calisilmis yasanilan talihsiz olayla.Gitmeyin demem ,mutlaka gidin de demem,ask filmi izlemek ve bol bol aglamak istiyorsaniz gidin derim.Ciddi bir kopukluk var bazi sahnelerde ama genele cok yansimamis,yani genelde akici ve aska dair gormek isteyebileceginiz tum guzel sahneler bu filmde mevcut... ",Pozitif,Negatif
-tr_2841,ben bu ürünü tavsiye üzerine aldım. gerçekten kokusu güzel ve etkileyici yumuşak bir kokusu var. yalnız kalıcı değil. sıktıktan 2-3 saat içinde koku kaybolup gidiyor. onun için çanta taşıyan erkekler için daha uygun :) parfüm reyonun da çeşit ve fiyat avantajından dolayı h.burada.com a teşekkür ederim.,Pozitif,Negatif
+tr_2841,ben bu ürünü tavsiye üzerine aldım. gerçekten kokusu güzel ve etkileyici yumuşak bir kokusu var. yalnız kalıcı değil. sıktıktan 2-3 saat içinde koku kaybolup gidiyor. onun için çanta taşıyan erkekler için daha uygun :) parfüm reyonun da çeşit ve fiyat avantajından dolayı h.burada.com a teşekkür ederim.,Pozitif,Pozitif
 tr_2842,Liderliğini Abdül Reşid Dostum yapmaktadır .,Nötr,Nötr
 tr_2843,Bu plan başarısızlıkla sonuçlanır .,Nötr,Nötr
 tr_2844,Dünya Miras Komitesinde listeye eklendi .,Nötr,Nötr
@@ -2943,7 +2943,7 @@ tr_2910,bence herkesin masaja ihtiyacı var güzel bir ürün herkese tavsiye ed
 tr_2911,* küçük tip şarj cihazı,Pozitif,Pozitif
 tr_2912, Yorumları şöyle bir okudum ve okuduklarıma inanamadım. Ben herhalde ingiliz hasta diye başka bir film seyrettim. Pes diyorum sadece.. Bu kadar şişirilmiş bir film görmedim duymadım. ,Negatif,Negatif
 tr_2913,Gerekli olan şartlar tamamlandıktan sonra sıra ant içme törenine gelmektedir .,Nötr,Nötr
-tr_2914,"açma kademesi 0 da takılıyor. i̇ttirip basmak gerekiyor. büyük bir sorun değil, ben internetten alışveriş yapınca böyle ürünlere denk geliyorum. kusurluları internetten gönderiyorlar sanırım yada benim şansıma... ürün biraz gürültülü ve ağır.",Negatif,Pozitif
+tr_2914,"açma kademesi 0 da takılıyor. i̇ttirip basmak gerekiyor. büyük bir sorun değil, ben internetten alışveriş yapınca böyle ürünlere denk geliyorum. kusurluları internetten gönderiyorlar sanırım yada benim şansıma... ürün biraz gürültülü ve ağır.",Negatif,Negatif
 tr_2915," Eleştirmeyeyim eleştirmeyeyim diyorum yine dayanamıyorum. Ya birileri artık Türkiye’de sırf Yeşilçam (!) katkı olsun diye film çevirmek için film çevirmesin, böyle katkı yapacaklarsa hiç yapmasınlar daha iyi. Yine çok kötü bir film, seslendirme kötü, Laz aksanı hiç mi hiç olmamış (sadece içlerinde o aksanı en iyi becerebilen Muhtar’ın Karısı oynayan oyuncu onu zaten Yasemin Yalçın kadrosundan tanıyoruz), yine toplama bir takım bunların arasından biraz tecrübesiyle Metin Akpınar sıyrılıyor, filmin adının niye 'Amerikalılar Karadeniz’de 2' olmasını zaten hiç anlamadım o 2’nin de esprisi yok açıkçası. Senaryo yıllar önce Amerika’da gösterilen gişe rekorları kıran soğuk savaş komedisi ?Russians are Coming ? Ruslar Geliyor? (1967) esinlendiği çok belli, ama o filmi ben Video izlemiştim, müthiş bir komediydi bu film maalesef onun yanına bile yaklaşamıyor. ",Negatif,Negatif
 tr_2916,çok beğendim fiyatına göre iyi bir telefon,Pozitif,Pozitif
 tr_2917,sorunsuz ve hızlı alışveriz verilen süreden erken kargolandı teşekkürler hepsiburada saat kaliteli kordonu ince biraz,Pozitif,Pozitif
@@ -2976,7 +2976,7 @@ tr_2943,i̇lgi̇ ve alakalarindan dolayi bütün çalişanlarina teşekkür edi�
 tr_2944,Gagavuz Özerk Cumhuriyeti devlet nişanı ödülü sahibiydi .,Nötr,Nötr
 tr_2945,"araştırarakçok araştırdımve sonunda bunda kara kıldım.   her konuda uygun bir telefon, yeşil de klas bir renk.",Pozitif,Pozitif
 tr_2946,boşuna kutuya para vermenize hiç gerek yok. tavsiye ederim...,Pozitif,Pozitif
-tr_2947,üzerinde ev gibi kapalı mekanlar için de kullanıbileceği yazıyor ancak büyük mekanda pek iş görmüyor. otomobilime sıkıp kapıları kapattım. koku falan kalmadı.,Pozitif,Negatif
+tr_2947,üzerinde ev gibi kapalı mekanlar için de kullanıbileceği yazıyor ancak büyük mekanda pek iş görmüyor. otomobilime sıkıp kapıları kapattım. koku falan kalmadı.,Pozitif,Pozitif
 tr_2948," İnanılmaz klişe sahneler, detaylar. Up in the Airı da andırdı bana biraz. Gerçek anlamda vakit kaybı. ",Negatif,Negatif
 tr_2949," norton bence hulk karakterine çok yakışmış, filmde genel olarak başarılıydı. benim en çok hoşuma starkın barda genaralle konuştuğu sahne gitti marvele teşekkür etmek lazım.böyle karakterleri bir araya toplamaları(starkın deyimiyle yeni bir ekip) bence çok muhteşem olur ",Pozitif,Pozitif
 tr_2950,ekonomik & kullanıslı,Pozitif,Pozitif
@@ -2993,14 +2993,14 @@ tr_2960,Çünkü Leprikon insan değil cüce bir yaratıktır .,Nötr,Nötr
 tr_2961,Robert Kolej’in ilk binası olarak inşa edilmiştir .,Nötr,Nötr
 tr_2962, biz hangi filmi izledik bu yorumlara bakarsak yalnış filmden bahsediyoruz berbat hiç beklediğim kadar değil uyuz oldum ,Negatif,Negatif
 tr_2963,"bir kurutma makinasında olması gereken tüm özellikler üründe mevcut.burdaki yorumları okuyarak aldım.saçlarım çok mat ve kuruydu, 1 haftadır kullanıyorum saçlarımda gözle görülür bir parlaklık oldu.bence ürünün tek eksisi çok büyük ve ağır olması.kolum ağrıyor açıkcası kullanırken.bu sizin için çok önemli değilse tavsiye ederim ürünü.",Pozitif,Pozitif
-tr_2964,Hızlı kargolama.,Negatif,Pozitif
+tr_2964,Hızlı kargolama.,Negatif,Nötr
 tr_2965,Bu yöntemlere kuantum kimya bileşik yöntemleri denir .,Nötr,Nötr
 tr_2966,valla kitabı okadar masala bogmuşki yazar masal ile gerçeği ayırt edebilenlere demiş. ben ayırt edemedim. birbirinden kopuk olaylar.. ben beğenmedim.,Negatif,Negatif
 tr_2967, nostalji dozu yüksek olmuş finale de bu yakışırdı zaten son 15 dakika için bir kaç kez daha izleyebilirim :D ve eğer bitecekse seriye böyle bir son gerekliydi bence 5. filmde askıda kalan birşeyler vardı ringlere güzel bi veda olmadan son nokta konulamazdı ,Pozitif,Negatif
 tr_2968,bir demlik ancak bu kadar sağlam sağlıklı ve şık olabilir hemde hepsiburada nın uygun fiyatı ve hızlı gönderimi ile  birlikte. daha ne olsun.çok tşkler,Pozitif,Pozitif
 tr_2969,tasarımı ve kalitesi gerçekten harika 1 numara ,Pozitif,Pozitif
 tr_2970,Yerli çalgılar son derece ilkel .,Nötr,Nötr
-tr_2971,i̇ki canavarın elinde bir hafta dayanabildi,Negatif,Negatif
+tr_2971,i̇ki canavarın elinde bir hafta dayanabildi,Negatif,Pozitif
 tr_2972,ürün biraz yavaş çalışıyor gibi ancak çok başarılı.,Pozitif,Pozitif
 tr_2973, çooook sıkıcı ve boş bir film bence sakın izlemeyin meg ryan da yaşlanmış ve güzelliğini kaybetmiş.. ,Negatif,Negatif
 tr_2974,önce tereddüt ettim ama geldiğinde çok beğendim salonuma taktım çok güzel,Pozitif,Pozitif
