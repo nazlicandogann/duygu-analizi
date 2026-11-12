@@ -1,0 +1,13 @@
+{
+    "model": "dbmdz/bert-base-turkish-cased",
+    "epochs": 2,
+    "learning_rate": 2e-05,
+    "batch_size": 16,
+    "max_length": 128,
+    "seed": 42,
+    "train_samples": 27000,
+    "validation_samples": 3000,
+    "test_samples": 3000,
+    "training_time_minutes": 7.8,
+    "gpu": "Tesla T4"
+}
