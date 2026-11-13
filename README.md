@@ -1,2 +1,87 @@
-# duygu-analizi
-Comparative Sentiment Analysis Project
+# Karşılaştırmalı Duygu Analizi (Sentiment Analysis)
+
+Kural tabanlı (**VADER**), derin öğrenme tabanlı (**BERT**) ve büyük dil modeli tabanlı (**LLM**) duygu analizi yöntemlerinin İngilizce ve Türkçe metinler üzerinde karşılaştırılması.
+
+**Ders:** <!-- DERS ADI --> · **Teslim:** 25 Kasım 2026
+**Grup:** Ceren · Elisar · Nazlıcan
+
+---
+
+## Veri setleri
+
+| Dil | Veri seti | Kaynak | Sınıflar |
+|---|---|---|---|
+| İngilizce | Twitter US Airline Sentiment | Kaggle | Pozitif / Negatif / Nötr |
+| Türkçe | winvoker Turkish Sentiment Analysis | Hugging Face | Pozitif / Negatif / Nötr |
+
+Her iki dil için test kümesi **sınıf başına 1.000 örnek** (toplam 3.000) içerir ve `seed = 42` ile ayrılmıştır.
+Metinler küçük harfe çevrilmez ve noktalama silinmez. Tüm yöntemler aynı test kümesi üzerinde değerlendirilir.
+
+## Yöntemler
+
+| Yöntem | İngilizce | Türkçe |
+|---|---|---|
+| **VADER** (kural tabanlı) | VADER, ham metin | Opus-MT ile TR→EN çeviri + VADER |
+| **BERT** (derin öğrenme) | `cardiffnlp/twitter-roberta-base-sentiment-latest` (hazır fine-tuned) | `dbmdz/bert-base-turkish-cased` (BERTurk), fine-tune: 2–3 epoch, lr 2e-5, batch 16, max_len 128, fp16 |
+| **LLM** (zero-shot) | `Qwen2.5-7B-Instruct` (4-bit NF4, yerel) | aynı model, aynı prompt |
+
+**LLM ayrıntıları:** Zero-shot, iki dilde aynı İngilizce talimat; greedy decoding (temperature 0'a eşdeğer, deterministik); cevap tek kelime (*Positive / Negative / Neutral*) olarak istenir. Geçersiz cevapta bir kez daha sorulur, yine geçersizse `Geçersiz` olarak işaretlenir.
+Başlangıçta Gemini API denendi; ücretsiz katmanın günlük istek kotası (20 istek/gün) yetersiz kaldığı için tekrarlanabilir ve kota sınırı olmayan yerel bir açık kaynak modele geçildi.
+
+## Klasör yapısı
+
+```
+duygu-analizi/
+├── data/                  # test_en.csv, test_tr.csv, train_tr.csv  (id,text,label)
+├── notebooks/
+│   ├── 01_...ipynb        # <!-- veri hazırlama -->
+│   ├── 02_...ipynb        # <!-- VADER -->
+│   ├── 03_...ipynb        # <!-- BERT -->
+│   ├── 04_llm_local.ipynb # LLM (Qwen2.5-7B-Instruct)
+│   └── 05_karsilastirma.ipynb
+├── src/
+│   └── evaluate.py        # ortak değerlendirme (accuracy, macro-F1, sınıf bazlı hata, confusion matrix)
+└── results/
+    ├── preds_<model>_<dil>.csv   # id,text,true,pred
+    └── figures/                  # confusion matrix görselleri
+```
+
+## Çalıştırma
+
+Tüm notebook'lar **Google Colab** üzerinde, **T4 GPU** çalışma zamanıyla çalıştırılmıştır.
+
+1. Notebook'u Colab'da açın: *Çalışma zamanı → Çalışma zamanı türünü değiştir → T4 GPU*.
+2. Repo özel olduğu için Colab *Secrets* bölümüne `GITHUB_TOKEN` ekleyin ve *Notebook access*'i açın.
+3. Notebook'ları sırayla çalıştırın: `01` → `02` → `03` → `04` → `05`.
+4. Her yöntem tahminlerini `results/preds_<model>_<dil>.csv` dosyasına yazar. Ölçüm için:
+
+```bash
+python src/evaluate.py results/preds_llm_en.csv
+```
+
+`04_llm_local.ipynb` notları:
+- İlk adımda `PILOT_PER_CLASS = 20` ile kısa bir pilot çalışır; tüm veri için `None` yapılır.
+- Kaldığı yerden devam eder: ham cevaplar `results/llm_raw_local_<dil>.jsonl` dosyasına her 16 örnekte bir yazılır.
+- Tüm veri T4 üzerinde yaklaşık 1 saat 15 dakika sürer (EN ~33 dk, TR ~42 dk).
+
+## Sonuçlar
+
+Test kümesi: her dil için 3.000 örnek (sınıf başına 1.000).
+
+| Yöntem | Dil | Accuracy | Macro-F1 | Hatalı: Pozitif | Hatalı: Negatif | Hatalı: Nötr | Geçersiz |
+|---|---|---|---|---|---|---|---|
+| VADER | EN | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | – |
+| VADER | TR | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | – |
+| BERT | EN | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | – |
+| BERT | TR | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | – |
+| LLM | EN | 0,798 | 0,794 | 121 | 106 | 378 | 2 |
+| LLM | TR | 0,781 | 0,786 | 200 | 249 | 207 | 23 |
+
+*Hatalı tahmin sayıları gerçek sınıfa göredir (o sınıfa ait olup yanlış tahmin edilen örnek sayısı). Geçersiz cevaplar hatalı sayılır.*
+
+Ayrıntılı karşılaştırma ve yorumlar proje raporunda yer almaktadır.
+
+## Gereksinimler
+
+`transformers`, `torch`, `bitsandbytes`, `accelerate`, `pandas`, `scikit-learn`, `vaderSentiment`, `matplotlib`
+(Colab'da çoğu hazır gelir; eksik olanlar notebook içinde `pip install` ile kurulur.)
