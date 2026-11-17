@@ -2,7 +2,7 @@
 
 Kural tabanlı (**VADER**), derin öğrenme tabanlı (**BERT**) ve büyük dil modeli tabanlı (**LLM**) duygu analizi yöntemlerinin İngilizce ve Türkçe metinler üzerinde karşılaştırılması.
 
-**Ders:** <!-- DERS ADI --> · **Teslim:** 25 Kasım 2026
+**Teslim:** 25 Kasım 2026
 **Grup:** Ceren · Elisar · Nazlıcan
 
 ---
@@ -22,7 +22,7 @@ Metinler küçük harfe çevrilmez ve noktalama silinmez. Tüm yöntemler aynı 
 | Yöntem | İngilizce | Türkçe |
 |---|---|---|
 | **VADER** (kural tabanlı) | VADER, ham metin | Opus-MT ile TR→EN çeviri + VADER |
-| **BERT** (derin öğrenme) | `cardiffnlp/twitter-roberta-base-sentiment-latest` (hazır fine-tuned) | `dbmdz/bert-base-turkish-cased` (BERTurk), fine-tune: 2–3 epoch, lr 2e-5, batch 16, max_len 128, fp16 |
+| **BERT** (derin öğrenme) | `cardiffnlp/twitter-roberta-base-sentiment-latest` (hazır fine-tuned) | `dbmdz/bert-base-turkish-cased` (BERTurk), fine-tune: 2 epoch, lr 2e-5, batch 16, max_len 128, fp16 |
 | **LLM** (zero-shot) | `Qwen2.5-7B-Instruct` (4-bit NF4, yerel) | aynı model, aynı prompt |
 
 **VADER ek deneyi:** Çevirinin katkısını ölçmek için Türkçe metin çevrilmeden doğrudan VADER'a da verilmiştir (`preds_vader_tr_ham.csv`).
