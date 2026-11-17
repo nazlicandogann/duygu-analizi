@@ -57,6 +57,17 @@ duygu-analizi/
 
 Tüm notebook'lar **Google Colab** üzerinde, **T4 GPU** çalışma zamanıyla çalıştırılmıştır.
 
+### Veri kurulumu
+
+Hazır test/eğitim kümeleri `data/` klasöründe bulunur (`test_en.csv`, `test_tr.csv`, `train_tr.csv`); 02–05 notebook'ları için yeniden üretmeye gerek yoktur. `01_veri_hazirlama.ipynb` baştan çalıştırılmak istenirse:
+
+- **İngilizce:** [Twitter US Airline Sentiment](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) veri setinden `Tweets.csv` dosyasını Kaggle'dan indirin ve Google Drive'da `MyDrive/DuyguAnalizi/ham_veri/Tweets.csv` konumuna koyun.
+- **Türkçe:** [winvoker/turkish-sentiment-analysis-dataset](https://huggingface.co/datasets/winvoker/turkish-sentiment-analysis-dataset) notebook içinde Hugging Face `datasets` kütüphanesiyle otomatik indirilir.
+
+`01` ve `02` notebook'ları dosyaları Drive'daki `MyDrive/DuyguAnalizi/` klasöründen okur (`KLASOR` değişkeni). `01` çalıştırılmayacaksa repodaki `data/` ve `src/` klasörlerini bu klasöre kopyalayın ya da `KLASOR` değişkenini repo klasörünü gösterecek şekilde değiştirin.
+
+### Adımlar
+
 1. Notebook'u Colab'da açın: *Çalışma zamanı → Çalışma zamanı türünü değiştir → T4 GPU*.
 2. Repo özel olduğu için Colab *Secrets* bölümüne `GITHUB_TOKEN` ekleyin ve *Notebook access*'i açın.
 3. Notebook'ları sırayla çalıştırın: `01_veri_hazirlama` → `02_vader` → `03_bert` → `04_llm_local` → `05_karsilastirma`.
