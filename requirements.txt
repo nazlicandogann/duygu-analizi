@@ -1,0 +1,14 @@
+# Notebook'lar Google Colab (T4 GPU) üzerinde çalıştırılmıştır.
+# Yerel kurulum için: pip install -r requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+vaderSentiment
+datasets
+transformers
+torch
+accelerate
+bitsandbytes
+sentencepiece

@@ -105,4 +105,4 @@ Ayrıntılı karşılaştırma ve yorumlar proje raporunda yer almaktadır.
 ## Gereksinimler
 
 `transformers`, `torch`, `bitsandbytes`, `accelerate`, `pandas`, `scikit-learn`, `vaderSentiment`, `matplotlib`
-(Colab'da çoğu hazır gelir; eksik olanlar notebook içinde `pip install` ile kurulur.)
+(Colab'da çoğu hazır gelir; eksik olanlar notebook içinde `pip install` ile kurulur. Yerel kurulum için: `pip install -r requirements.txt`)
