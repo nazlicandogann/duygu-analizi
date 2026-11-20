@@ -4,10 +4,15 @@
     "learning_rate": 2e-05,
     "batch_size": 16,
     "max_length": 128,
+    "weight_decay": 0.01,
     "seed": 42,
     "train_samples": 27000,
     "validation_samples": 3000,
     "test_samples": 3000,
-    "training_time_minutes": 7.8,
+    "training_time_minutes": 7.79,
+    "validation_accuracy": 0.950667,
+    "validation_macro_f1": 0.950609,
+    "test_accuracy": 0.947333,
+    "test_macro_f1": 0.947174,
     "gpu": "Tesla T4"
 }
